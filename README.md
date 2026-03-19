@@ -37,11 +37,11 @@
 **And [special thanks to these contributors!](CREDITS-TO-CONTRIBUTORS.md)**
 
 ## Alternatives
-This project's icons are not intended for general-purpose use, but focus specifically on the userbase of [Aegis, the Android app](https://getaegis.app). For other needs, consider the following alternatives:
+This project's icons are not intended for general-purpose use, but focus specifically on the userbase of [Aegis, the Android app](https://getaegis.app).
 
-- **[Simple Icons](https://simpleicons.org)**: A comprehensive library of brand icons for general use.
-- **[aegis-simple-icons](https://github.com/alexbakker/aegis-simple-icons)**: An automatically generated Aegis icon pack based on [Simple Icons](https://simpleicons.org).
-  - **Note:** *Not all services with icons in this pack have 2FA support.*
+If you need logos for general-purpose, check out [Simple Icons](https://simpleicons.org) instead.
+
+For alternative icon packs, check out [the list from Aegis Authenticator's official repository](https://github.com/beemdevelopment/aegis#icon-packs).
 
 ## Disclaimer
 This project includes material that may be protected as a trademark in some jurisdictions. The presence of trademarks in the "aegis-icons" project does not indicate endorsement of the brands. Users wishing to use icons publicly must ensure they have the legal right to do so and do not infringe upon any trademark rights. Brand-based icons should be used solely to represent the company, product, or service to which they refer.
