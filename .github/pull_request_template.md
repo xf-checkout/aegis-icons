@@ -1,7 +1,7 @@
 <!--
 🔔 When SUBMITTING ICON, please read this PR template CAREFULLY and follow the instructions!
      - But if the pull request DOESN'T relate to icon submissions, please ignore all of this (even the CONTRIBUTING check) and make PR from scratch.
-       - For non icon related PRs, IT IS RECOMMENDED TO AT LEAST GLANCE THE CONTRIBUTING FILE for possible prohibited actions (eg. editing JSONs)
+       - For non icon related Pull requests, please read the [contributing document](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md) for possible prohibited actions (eg. editing JSONs)
 
 ========== PULL REQUEST TITLE FORMAT ==========
 Copy-paste one of these formats (the text inside of quotes)
@@ -16,14 +16,22 @@ the name of the site / brand / company / app / generic symbol.
    ❝  New icon: icon_name_here (generic)  ❞
 -->
 
+<!-- ▲▲▲ REQUIRED! -->
 - [ ] The [**CONTRIBUTING** Document](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md) has been read and followed.
+
+<!-- This ensures that new products and services have a time to get used and are not "vibe coded in a weekend". -->
+- [ ] I`am **not** the creator or owner of this product or service, and i am a 3rd party end user.
+
+- [ ] This pull request and icon have been done by myself and not completely by AI.
+
+- [ ] I have enabled allow maintainers access.
 
 <!-- ▲▲▲ REQUIRED!
 
 CONTRIBUTING document: https://is.gd/aegisicons_contributing
 
 ❌ IF THE CONTRIBUTING DOCUMENT ISN'T READ / FOLLOWED,
-❌ THE PR(S) MIGHT GET REJECTED AND, IN THE WORSE CASE, GET THE CONTRIBUTOR BANNED.
+❌ THE pull request MIGHT GET REJECTED AND, IN THE WORSE CASE, GET THE **CONTRIBUTOR BANNED**.
 
 ❌ Removing that line = instant rejection.
 
@@ -42,10 +50,10 @@ Replace space with x inside of the brackets: [ ] ➜ [x]
 <!-- ▲▲▲ OPTIONAL (not needed for icon updates or request fills)
 
 Add either:
-- Link to documentation page / announcement post related to TOTP / Google Authenticator 2FA (PREFERED OPTION #1)
-- Link to 2FA Directory's GitHub pull request page for the service (PREFERED OPTION #2)
+- Link to documentation page / announcement post related to TOTP / Google Authenticator 2FA (PREFERRED OPTION #1)
+- Link to 2FA Directory's GitHub pull request page for the service (PREFERRED OPTION #2)
   - Search them here: https://is.gd/2fa_directory_prs
-- Screenshot proof of the TOTP / Google Authenticator 2FA settings page or login prompt (IF EITHER PREFERED OPTION WASN'T AVAILABLE)
+- Screenshot proof of the TOTP / Google Authenticator 2FA settings page or login prompt (IF EITHER PREFERRED OPTION WASN'T AVAILABLE)
   - ❌ NO SCREENSHOTS FROM AEGIS APP, PERIOD! Only from the service with the account.
   - Block out sensitive info if needed (QR codes, 2FA seed codes, personal information etc.)
   
@@ -87,8 +95,4 @@ After this line, comments can be added freely. Thank you for following the instr
 
 <!-- ▲▲▲ REQUIRED! -->
 
-<!-- This ensures that new products and services have a time to get used and are not "vibe coded in a weekend". -->
-- [ ] I`am **not** the creator or ower of this product or service, and i am a 3rd party end user.
-
-- [ ] This pull request and icon have done by myself and not completely by ai.
 
