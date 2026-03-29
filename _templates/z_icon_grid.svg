@@ -9,11 +9,11 @@
     <g id="One to one shape guides" fill="none" stroke-width="1px">
       <g id="Ellipse">
         <circle id="Ellipse - solid" cx="512" cy="512" r="272" stroke="#262525" stroke-miterlimit="4"/>
-        <circle id="Ellipse - dashed" cx="512" cy="512" r="272" stroke="#64ff00" stroke-dasharray="6 6 6 6 6 6"/>
+        <circle id="Ellipse - dashed" cx="512" cy="512" r="272" stroke="#64ff00" stroke-dasharray="12 12 12 12 12 12"/>
       </g>
       <g id="Square" stroke-miterlimit="4">
         <path id="Square - solid" stroke="#000" d="M272 272h480v480H272z"/>
-        <path id="Square - dashed" stroke="#64ff00" stroke-dasharray="6 6 6 6 6 6" d="M272 272h480v480H272z"/>
+        <path id="Square - dashed" stroke="#64ff00" stroke-dasharray="12 12 12 12 12 12" d="M272 272h480v480H272z"/>
       </g>
     </g>
     <g id="Out of bounds rings">
