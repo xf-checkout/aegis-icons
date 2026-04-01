@@ -212,14 +212,6 @@
             ]
         },
         {
-            "name": "AnonAddy",
-            "filename": "icons/1_Primary/AnonAddy.svg",
-            "category": null,
-            "issuer": [
-                "AnonAddy"
-            ]
-        },
-        {
             "name": "AnyDesk",
             "filename": "icons/1_Primary/AnyDesk.svg",
             "category": null,
@@ -345,6 +337,14 @@
             "category": null,
             "issuer": [
                 "Authelia"
+            ]
+        },
+        {
+            "name": "Authing",
+            "filename": "icons/1_Primary/Authing.svg",
+            "category": null,
+            "issuer": [
+                "Authing"
             ]
         },
         {
@@ -833,6 +833,14 @@
             "category": null,
             "issuer": [
                 "Caixa"
+            ]
+        },
+        {
+            "name": "Cal.com",
+            "filename": "icons/1_Primary/Cal.com.svg",
+            "category": null,
+            "issuer": [
+                "Cal.com"
             ]
         },
         {
@@ -1476,6 +1484,14 @@
             ]
         },
         {
+            "name": "Ed",
+            "filename": "icons/1_Primary/Ed.svg",
+            "category": null,
+            "issuer": [
+                "Ed"
+            ]
+        },
+        {
             "name": "Elastic",
             "filename": "icons/1_Primary/Elastic.svg",
             "category": null,
@@ -1772,14 +1788,6 @@
             ]
         },
         {
-            "name": "Firefox",
-            "filename": "icons/1_Primary/Firefox.svg",
-            "category": null,
-            "issuer": [
-                "Firefox"
-            ]
-        },
-        {
             "name": "Floatplane",
             "filename": "icons/1_Primary/Floatplane.svg",
             "category": null,
@@ -1889,6 +1897,14 @@
             "category": null,
             "issuer": [
                 "GNS3"
+            ]
+        },
+        {
+            "name": "GOG.com",
+            "filename": "icons/1_Primary/GOG.com.svg",
+            "category": null,
+            "issuer": [
+                "GOG.com"
             ]
         },
         {
@@ -2089,6 +2105,14 @@
             "category": null,
             "issuer": [
                 "Greenview Data"
+            ]
+        },
+        {
+            "name": "Grey",
+            "filename": "icons/1_Primary/Grey.svg",
+            "category": null,
+            "issuer": [
+                "Grey"
             ]
         },
         {
@@ -2572,6 +2596,14 @@
             ]
         },
         {
+            "name": "Interactive Brokers",
+            "filename": "icons/1_Primary/Interactive Brokers.svg",
+            "category": null,
+            "issuer": [
+                "Interactive Brokers"
+            ]
+        },
+        {
             "name": "Internxt",
             "filename": "icons/1_Primary/Internxt.svg",
             "category": null,
@@ -2689,6 +2721,14 @@
             "category": null,
             "issuer": [
                 "KDE"
+            ]
+        },
+        {
+            "name": "KLM",
+            "filename": "icons/1_Primary/KLM.svg",
+            "category": null,
+            "issuer": [
+                "KLM"
             ]
         },
         {
@@ -2900,6 +2940,14 @@
             ]
         },
         {
+            "name": "Lenovo",
+            "filename": "icons/1_Primary/Lenovo.svg",
+            "category": null,
+            "issuer": [
+                "Lenovo"
+            ]
+        },
+        {
             "name": "Libero",
             "filename": "icons/1_Primary/Libero.svg",
             "category": null,
@@ -2977,6 +3025,14 @@
             "category": null,
             "issuer": [
                 "Logitech"
+            ]
+        },
+        {
+            "name": "Logto",
+            "filename": "icons/1_Primary/Logto.svg",
+            "category": null,
+            "issuer": [
+                "Logto"
             ]
         },
         {
@@ -3268,6 +3324,14 @@
             ]
         },
         {
+            "name": "Mistral",
+            "filename": "icons/1_Primary/Mistral.svg",
+            "category": null,
+            "issuer": [
+                "Mistral"
+            ]
+        },
+        {
             "name": "Mollie",
             "filename": "icons/1_Primary/Mollie.svg",
             "category": null,
@@ -3308,6 +3372,14 @@
             ]
         },
         {
+            "name": "Mozilla",
+            "filename": "icons/1_Primary/Mozilla.svg",
+            "category": null,
+            "issuer": [
+                "Mozilla"
+            ]
+        },
+        {
             "name": "Murena",
             "filename": "icons/1_Primary/Murena.svg",
             "category": null,
@@ -3345,6 +3417,14 @@
             "category": null,
             "issuer": [
                 "MyAnimeList"
+            ]
+        },
+        {
+            "name": "MyChart",
+            "filename": "icons/1_Primary/MyChart.svg",
+            "category": null,
+            "issuer": [
+                "MyChart"
             ]
         },
         {
@@ -3468,6 +3548,14 @@
             ]
         },
         {
+            "name": "NetBird",
+            "filename": "icons/1_Primary/NetBird.svg",
+            "category": null,
+            "issuer": [
+                "NetBird"
+            ]
+        },
+        {
             "name": "Netim",
             "filename": "icons/1_Primary/Netim.svg",
             "category": null,
@@ -3577,6 +3665,14 @@
             "category": null,
             "issuer": [
                 "Njalla"
+            ]
+        },
+        {
+            "name": "No Starch Press",
+            "filename": "icons/1_Primary/No Starch Press.svg",
+            "category": null,
+            "issuer": [
+                "No Starch Press"
             ]
         },
         {
@@ -3812,6 +3908,14 @@
             ]
         },
         {
+            "name": "OpenList",
+            "filename": "icons/1_Primary/OpenList.svg",
+            "category": null,
+            "issuer": [
+                "OpenList"
+            ]
+        },
+        {
             "name": "OpenSRS",
             "filename": "icons/1_Primary/OpenSRS.svg",
             "category": null,
@@ -3857,6 +3961,14 @@
             "category": null,
             "issuer": [
                 "Oracle"
+            ]
+        },
+        {
+            "name": "Oray",
+            "filename": "icons/1_Primary/Oray.svg",
+            "category": null,
+            "issuer": [
+                "Oray"
             ]
         },
         {
@@ -4009,6 +4121,14 @@
             "category": null,
             "issuer": [
                 "Pixelfed"
+            ]
+        },
+        {
+            "name": "Pixiv",
+            "filename": "icons/1_Primary/Pixiv.svg",
+            "category": null,
+            "issuer": [
+                "Pixiv"
             ]
         },
         {
@@ -4404,6 +4524,14 @@
             ]
         },
         {
+            "name": "RedotPay",
+            "filename": "icons/1_Primary/RedotPay.svg",
+            "category": null,
+            "issuer": [
+                "RedotPay"
+            ]
+        },
+        {
             "name": "Regery",
             "filename": "icons/1_Primary/Regery.svg",
             "category": null,
@@ -4756,6 +4884,14 @@
             ]
         },
         {
+            "name": "Seznam.cz",
+            "filename": "icons/1_Primary/Seznam.cz.svg",
+            "category": null,
+            "issuer": [
+                "Seznam.cz"
+            ]
+        },
+        {
             "name": "Shakepay",
             "filename": "icons/1_Primary/Shakepay.svg",
             "category": null,
@@ -4921,6 +5057,14 @@
             "category": null,
             "issuer": [
                 "Splashtop"
+            ]
+        },
+        {
+            "name": "Sport80",
+            "filename": "icons/1_Primary/Sport80.svg",
+            "category": null,
+            "issuer": [
+                "Sport80"
             ]
         },
         {
@@ -6092,6 +6236,14 @@
             ]
         },
         {
+            "name": "Zammad",
+            "filename": "icons/1_Primary/Zammad.svg",
+            "category": null,
+            "issuer": [
+                "Zammad"
+            ]
+        },
+        {
             "name": "Zapier",
             "filename": "icons/1_Primary/Zapier.svg",
             "category": null,
@@ -6169,6 +6321,14 @@
             "category": null,
             "issuer": [
                 "Zoom"
+            ]
+        },
+        {
+            "name": "addy.io",
+            "filename": "icons/1_Primary/addy.io.svg",
+            "category": null,
+            "issuer": [
+                "addy.io"
             ]
         },
         {
@@ -6636,6 +6796,14 @@
             ]
         },
         {
+            "name": "Cal.com bg.var",
+            "filename": "icons/2_Variations/Cal.com bg.var.svg",
+            "category": null,
+            "issuer": [
+                "Cal.com bg.var"
+            ]
+        },
+        {
             "name": "Carta bg.var",
             "filename": "icons/2_Variations/Carta bg.var.svg",
             "category": null,
@@ -6756,6 +6924,14 @@
             ]
         },
         {
+            "name": "GOG.com bg.var",
+            "filename": "icons/2_Variations/GOG.com bg.var.svg",
+            "category": null,
+            "issuer": [
+                "GOG.com bg.var"
+            ]
+        },
+        {
             "name": "Gaijin Entertainment bg.var",
             "filename": "icons/2_Variations/Gaijin Entertainment bg.var.svg",
             "category": null,
@@ -6777,6 +6953,14 @@
             "category": null,
             "issuer": [
                 "GoTo fg.var"
+            ]
+        },
+        {
+            "name": "Grey bg.var",
+            "filename": "icons/2_Variations/Grey bg.var.svg",
+            "category": null,
+            "issuer": [
+                "Grey bg.var"
             ]
         },
         {
@@ -6953,6 +7137,14 @@
             "category": null,
             "issuer": [
                 "Mollie bg.var"
+            ]
+        },
+        {
+            "name": "Mozilla fg.var",
+            "filename": "icons/2_Variations/Mozilla fg.var.svg",
+            "category": null,
+            "issuer": [
+                "Mozilla fg.var"
             ]
         },
         {
@@ -7705,790 +7897,6 @@
             "category": null,
             "issuer": [
                 "Web"
-            ]
-        },
-        {
-            "name": "1Password v1",
-            "filename": "icons/4_Outdated/1Password v1.svg",
-            "category": null,
-            "issuer": [
-                "1Password v1"
-            ]
-        },
-        {
-            "name": "2Checkout",
-            "filename": "icons/4_Outdated/2Checkout.svg",
-            "category": null,
-            "issuer": [
-                "2Checkout"
-            ]
-        },
-        {
-            "name": "Algolia v1",
-            "filename": "icons/4_Outdated/Algolia v1.svg",
-            "category": null,
-            "issuer": [
-                "Algolia v1"
-            ]
-        },
-        {
-            "name": "AngelList bg.var",
-            "filename": "icons/4_Outdated/AngelList bg.var.svg",
-            "category": null,
-            "issuer": [
-                "AngelList bg.var"
-            ]
-        },
-        {
-            "name": "AngelList",
-            "filename": "icons/4_Outdated/AngelList.svg",
-            "category": null,
-            "issuer": [
-                "AngelList"
-            ]
-        },
-        {
-            "name": "AppFolio v1",
-            "filename": "icons/4_Outdated/AppFolio v1.svg",
-            "category": null,
-            "issuer": [
-                "AppFolio v1"
-            ]
-        },
-        {
-            "name": "Autodesk v1",
-            "filename": "icons/4_Outdated/Autodesk v1.svg",
-            "category": null,
-            "issuer": [
-                "Autodesk v1"
-            ]
-        },
-        {
-            "name": "Avast v1",
-            "filename": "icons/4_Outdated/Avast v1.svg",
-            "category": null,
-            "issuer": [
-                "Avast v1"
-            ]
-        },
-        {
-            "name": "Azure v1",
-            "filename": "icons/4_Outdated/Azure v1.svg",
-            "category": null,
-            "issuer": [
-                "Azure v1"
-            ]
-        },
-        {
-            "name": "BitSight v1",
-            "filename": "icons/4_Outdated/BitSight v1.svg",
-            "category": null,
-            "issuer": [
-                "BitSight v1"
-            ]
-        },
-        {
-            "name": "Bitpanda v1 bg.var",
-            "filename": "icons/4_Outdated/Bitpanda v1 bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Bitpanda v1 bg.var"
-            ]
-        },
-        {
-            "name": "Bitpanda v1",
-            "filename": "icons/4_Outdated/Bitpanda v1.svg",
-            "category": null,
-            "issuer": [
-                "Bitpanda v1"
-            ]
-        },
-        {
-            "name": "Bitstamp v1",
-            "filename": "icons/4_Outdated/Bitstamp v1.svg",
-            "category": null,
-            "issuer": [
-                "Bitstamp v1"
-            ]
-        },
-        {
-            "name": "Black Desert Online bg.var",
-            "filename": "icons/4_Outdated/Black Desert Online bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Black Desert Online bg.var"
-            ]
-        },
-        {
-            "name": "Black Desert Online",
-            "filename": "icons/4_Outdated/Black Desert Online.svg",
-            "category": null,
-            "issuer": [
-                "Black Desert Online"
-            ]
-        },
-        {
-            "name": "Blizzard",
-            "filename": "icons/4_Outdated/Blizzard.svg",
-            "category": null,
-            "issuer": [
-                "Blizzard"
-            ]
-        },
-        {
-            "name": "Blur",
-            "filename": "icons/4_Outdated/Blur.svg",
-            "category": null,
-            "issuer": [
-                "Blur"
-            ]
-        },
-        {
-            "name": "Bugzilla v1",
-            "filename": "icons/4_Outdated/Bugzilla v1.svg",
-            "category": null,
-            "issuer": [
-                "Bugzilla v1"
-            ]
-        },
-        {
-            "name": "Carta v1",
-            "filename": "icons/4_Outdated/Carta v1.svg",
-            "category": null,
-            "issuer": [
-                "Carta v1"
-            ]
-        },
-        {
-            "name": "Clubhouse",
-            "filename": "icons/4_Outdated/Clubhouse.svg",
-            "category": null,
-            "issuer": [
-                "Clubhouse"
-            ]
-        },
-        {
-            "name": "Codeberg v1",
-            "filename": "icons/4_Outdated/Codeberg v1.svg",
-            "category": null,
-            "issuer": [
-                "Codeberg v1"
-            ]
-        },
-        {
-            "name": "Coinbase v1",
-            "filename": "icons/4_Outdated/Coinbase v1.svg",
-            "category": null,
-            "issuer": [
-                "Coinbase v1"
-            ]
-        },
-        {
-            "name": "Contabo v1",
-            "filename": "icons/4_Outdated/Contabo v1.svg",
-            "category": null,
-            "issuer": [
-                "Contabo v1"
-            ]
-        },
-        {
-            "name": "Cozy Cloud v1",
-            "filename": "icons/4_Outdated/Cozy Cloud v1.svg",
-            "category": null,
-            "issuer": [
-                "Cozy Cloud v1"
-            ]
-        },
-        {
-            "name": "CurseForge v1",
-            "filename": "icons/4_Outdated/CurseForge v1.svg",
-            "category": null,
-            "issuer": [
-                "CurseForge v1"
-            ]
-        },
-        {
-            "name": "DMarket v1",
-            "filename": "icons/4_Outdated/DMarket v1.svg",
-            "category": null,
-            "issuer": [
-                "DMarket v1"
-            ]
-        },
-        {
-            "name": "Dashlane v1",
-            "filename": "icons/4_Outdated/Dashlane v1.svg",
-            "category": null,
-            "issuer": [
-                "Dashlane v1"
-            ]
-        },
-        {
-            "name": "Discord v1",
-            "filename": "icons/4_Outdated/Discord v1.svg",
-            "category": null,
-            "issuer": [
-                "Discord v1"
-            ]
-        },
-        {
-            "name": "Disroot v1",
-            "filename": "icons/4_Outdated/Disroot v1.svg",
-            "category": null,
-            "issuer": [
-                "Disroot v1"
-            ]
-        },
-        {
-            "name": "Drupal v1",
-            "filename": "icons/4_Outdated/Drupal v1.svg",
-            "category": null,
-            "issuer": [
-                "Drupal v1"
-            ]
-        },
-        {
-            "name": "Enom v1",
-            "filename": "icons/4_Outdated/Enom v1.svg",
-            "category": null,
-            "issuer": [
-                "Enom v1"
-            ]
-        },
-        {
-            "name": "ExpressVPN v1",
-            "filename": "icons/4_Outdated/ExpressVPN v1.svg",
-            "category": null,
-            "issuer": [
-                "ExpressVPN v1"
-            ]
-        },
-        {
-            "name": "F-Secure v1",
-            "filename": "icons/4_Outdated/F-Secure v1.svg",
-            "category": null,
-            "issuer": [
-                "F-Secure v1"
-            ]
-        },
-        {
-            "name": "Facebook v1",
-            "filename": "icons/4_Outdated/Facebook v1.svg",
-            "category": null,
-            "issuer": [
-                "Facebook v1"
-            ]
-        },
-        {
-            "name": "Fathom Analytics v1",
-            "filename": "icons/4_Outdated/Fathom Analytics v1.svg",
-            "category": null,
-            "issuer": [
-                "Fathom Analytics v1"
-            ]
-        },
-        {
-            "name": "Firefox v1",
-            "filename": "icons/4_Outdated/Firefox v1.svg",
-            "category": null,
-            "issuer": [
-                "Firefox v1"
-            ]
-        },
-        {
-            "name": "GitLab v1",
-            "filename": "icons/4_Outdated/GitLab v1.svg",
-            "category": null,
-            "issuer": [
-                "GitLab v1"
-            ]
-        },
-        {
-            "name": "Glassdoor v1",
-            "filename": "icons/4_Outdated/Glassdoor v1.svg",
-            "category": null,
-            "issuer": [
-                "Glassdoor v1"
-            ]
-        },
-        {
-            "name": "GoDaddy v1 bg.var",
-            "filename": "icons/4_Outdated/GoDaddy v1 bg.var.svg",
-            "category": null,
-            "issuer": [
-                "GoDaddy v1 bg.var"
-            ]
-        },
-        {
-            "name": "GoDaddy v1",
-            "filename": "icons/4_Outdated/GoDaddy v1.svg",
-            "category": null,
-            "issuer": [
-                "GoDaddy v1"
-            ]
-        },
-        {
-            "name": "HM Revenue & Customs",
-            "filename": "icons/4_Outdated/HM Revenue & Customs.svg",
-            "category": null,
-            "issuer": [
-                "HM Revenue & Customs"
-            ]
-        },
-        {
-            "name": "HackNotice v1",
-            "filename": "icons/4_Outdated/HackNotice v1.svg",
-            "category": null,
-            "issuer": [
-                "HackNotice v1"
-            ]
-        },
-        {
-            "name": "Home Assistant v1",
-            "filename": "icons/4_Outdated/Home Assistant v1.svg",
-            "category": null,
-            "issuer": [
-                "Home Assistant v1"
-            ]
-        },
-        {
-            "name": "Hostwinds v1",
-            "filename": "icons/4_Outdated/Hostwinds v1.svg",
-            "category": null,
-            "issuer": [
-                "Hostwinds v1"
-            ]
-        },
-        {
-            "name": "Intuit v1",
-            "filename": "icons/4_Outdated/Intuit v1.svg",
-            "category": null,
-            "issuer": [
-                "Intuit v1"
-            ]
-        },
-        {
-            "name": "Justworks v1",
-            "filename": "icons/4_Outdated/Justworks v1.svg",
-            "category": null,
-            "issuer": [
-                "Justworks v1"
-            ]
-        },
-        {
-            "name": "Koofr v1",
-            "filename": "icons/4_Outdated/Koofr v1.svg",
-            "category": null,
-            "issuer": [
-                "Koofr v1"
-            ]
-        },
-        {
-            "name": "Linode",
-            "filename": "icons/4_Outdated/Linode.svg",
-            "category": null,
-            "issuer": [
-                "Linode"
-            ]
-        },
-        {
-            "name": "LogMeIn",
-            "filename": "icons/4_Outdated/LogMeIn.svg",
-            "category": null,
-            "issuer": [
-                "LogMeIn"
-            ]
-        },
-        {
-            "name": "MEXC v1",
-            "filename": "icons/4_Outdated/MEXC v1.svg",
-            "category": null,
-            "issuer": [
-                "MEXC v1"
-            ]
-        },
-        {
-            "name": "MXroute v1",
-            "filename": "icons/4_Outdated/MXroute v1.svg",
-            "category": null,
-            "issuer": [
-                "MXroute v1"
-            ]
-        },
-        {
-            "name": "NameSilo v1",
-            "filename": "icons/4_Outdated/NameSilo v1.svg",
-            "category": null,
-            "issuer": [
-                "NameSilo v1"
-            ]
-        },
-        {
-            "name": "Netlify v1",
-            "filename": "icons/4_Outdated/Netlify v1.svg",
-            "category": null,
-            "issuer": [
-                "Netlify v1"
-            ]
-        },
-        {
-            "name": "NextDNS v1",
-            "filename": "icons/4_Outdated/NextDNS v1.svg",
-            "category": null,
-            "issuer": [
-                "NextDNS v1"
-            ]
-        },
-        {
-            "name": "OKEx",
-            "filename": "icons/4_Outdated/OKEx.svg",
-            "category": null,
-            "issuer": [
-                "OKEx"
-            ]
-        },
-        {
-            "name": "Oculus bg.var",
-            "filename": "icons/4_Outdated/Oculus bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Oculus bg.var"
-            ]
-        },
-        {
-            "name": "Oculus",
-            "filename": "icons/4_Outdated/Oculus.svg",
-            "category": null,
-            "issuer": [
-                "Oculus"
-            ]
-        },
-        {
-            "name": "Okta v2",
-            "filename": "icons/4_Outdated/Okta v2.svg",
-            "category": null,
-            "issuer": [
-                "Okta v2"
-            ]
-        },
-        {
-            "name": "OneSignal v1",
-            "filename": "icons/4_Outdated/OneSignal v1.svg",
-            "category": null,
-            "issuer": [
-                "OneSignal v1"
-            ]
-        },
-        {
-            "name": "OnlyFans v1",
-            "filename": "icons/4_Outdated/OnlyFans v1.svg",
-            "category": null,
-            "issuer": [
-                "OnlyFans v1"
-            ]
-        },
-        {
-            "name": "OpenSRS v1",
-            "filename": "icons/4_Outdated/OpenSRS v1.svg",
-            "category": null,
-            "issuer": [
-                "OpenSRS v1"
-            ]
-        },
-        {
-            "name": "Origin",
-            "filename": "icons/4_Outdated/Origin.svg",
-            "category": null,
-            "issuer": [
-                "Origin"
-            ]
-        },
-        {
-            "name": "OwnCube v1",
-            "filename": "icons/4_Outdated/OwnCube v1.svg",
-            "category": null,
-            "issuer": [
-                "OwnCube v1"
-            ]
-        },
-        {
-            "name": "Paddle v1",
-            "filename": "icons/4_Outdated/Paddle v1.svg",
-            "category": null,
-            "issuer": [
-                "Paddle v1"
-            ]
-        },
-        {
-            "name": "Patreon v1",
-            "filename": "icons/4_Outdated/Patreon v1.svg",
-            "category": null,
-            "issuer": [
-                "Patreon v1"
-            ]
-        },
-        {
-            "name": "PayPal v1",
-            "filename": "icons/4_Outdated/PayPal v1.svg",
-            "category": null,
-            "issuer": [
-                "PayPal v1"
-            ]
-        },
-        {
-            "name": "PayPal v2",
-            "filename": "icons/4_Outdated/PayPal v2.svg",
-            "category": null,
-            "issuer": [
-                "PayPal v2"
-            ]
-        },
-        {
-            "name": "Plex v1 bg.var",
-            "filename": "icons/4_Outdated/Plex v1 bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Plex v1 bg.var"
-            ]
-        },
-        {
-            "name": "Plex v1",
-            "filename": "icons/4_Outdated/Plex v1.svg",
-            "category": null,
-            "issuer": [
-                "Plex v1"
-            ]
-        },
-        {
-            "name": "Privacy v1",
-            "filename": "icons/4_Outdated/Privacy v1.svg",
-            "category": null,
-            "issuer": [
-                "Privacy v1"
-            ]
-        },
-        {
-            "name": "Private Internet Access v1",
-            "filename": "icons/4_Outdated/Private Internet Access v1.svg",
-            "category": null,
-            "issuer": [
-                "Private Internet Access v1"
-            ]
-        },
-        {
-            "name": "ProtonMail",
-            "filename": "icons/4_Outdated/ProtonMail.svg",
-            "category": null,
-            "issuer": [
-                "ProtonMail"
-            ]
-        },
-        {
-            "name": "ProtonVPN",
-            "filename": "icons/4_Outdated/ProtonVPN.svg",
-            "category": null,
-            "issuer": [
-                "ProtonVPN"
-            ]
-        },
-        {
-            "name": "Republic Wireless v1",
-            "filename": "icons/4_Outdated/Republic Wireless v1.svg",
-            "category": null,
-            "issuer": [
-                "Republic Wireless v1"
-            ]
-        },
-        {
-            "name": "Roblox v1",
-            "filename": "icons/4_Outdated/Roblox v1.svg",
-            "category": null,
-            "issuer": [
-                "Roblox v1"
-            ]
-        },
-        {
-            "name": "Sendinblue",
-            "filename": "icons/4_Outdated/Sendinblue.svg",
-            "category": null,
-            "issuer": [
-                "Sendinblue"
-            ]
-        },
-        {
-            "name": "Stake v1 bg.var",
-            "filename": "icons/4_Outdated/Stake v1 bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Stake v1 bg.var"
-            ]
-        },
-        {
-            "name": "Stake v1",
-            "filename": "icons/4_Outdated/Stake v1.svg",
-            "category": null,
-            "issuer": [
-                "Stake v1"
-            ]
-        },
-        {
-            "name": "Standard Notes v1",
-            "filename": "icons/4_Outdated/Standard Notes v1.svg",
-            "category": null,
-            "issuer": [
-                "Standard Notes v1"
-            ]
-        },
-        {
-            "name": "Star Citizen bg.var",
-            "filename": "icons/4_Outdated/Star Citizen bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Star Citizen bg.var"
-            ]
-        },
-        {
-            "name": "Star Citizen",
-            "filename": "icons/4_Outdated/Star Citizen.svg",
-            "category": null,
-            "issuer": [
-                "Star Citizen"
-            ]
-        },
-        {
-            "name": "Star Wars The Old Republic v1",
-            "filename": "icons/4_Outdated/Star Wars The Old Republic v1.svg",
-            "category": null,
-            "issuer": [
-                "Star Wars The Old Republic v1"
-            ]
-        },
-        {
-            "name": "Thycotic",
-            "filename": "icons/4_Outdated/Thycotic.svg",
-            "category": null,
-            "issuer": [
-                "Thycotic"
-            ]
-        },
-        {
-            "name": "Trello v1",
-            "filename": "icons/4_Outdated/Trello v1.svg",
-            "category": null,
-            "issuer": [
-                "Trello v1"
-            ]
-        },
-        {
-            "name": "Tumblr v1",
-            "filename": "icons/4_Outdated/Tumblr v1.svg",
-            "category": null,
-            "issuer": [
-                "Tumblr v1"
-            ]
-        },
-        {
-            "name": "Tutanota",
-            "filename": "icons/4_Outdated/Tutanota.svg",
-            "category": null,
-            "issuer": [
-                "Tutanota"
-            ]
-        },
-        {
-            "name": "Twitch v1",
-            "filename": "icons/4_Outdated/Twitch v1.svg",
-            "category": null,
-            "issuer": [
-                "Twitch v1"
-            ]
-        },
-        {
-            "name": "Ubiquiti v1",
-            "filename": "icons/4_Outdated/Ubiquiti v1.svg",
-            "category": null,
-            "issuer": [
-                "Ubiquiti v1"
-            ]
-        },
-        {
-            "name": "Ubuntu v1",
-            "filename": "icons/4_Outdated/Ubuntu v1.svg",
-            "category": null,
-            "issuer": [
-                "Ubuntu v1"
-            ]
-        },
-        {
-            "name": "Unity v1 bg.var",
-            "filename": "icons/4_Outdated/Unity v1 bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Unity v1 bg.var"
-            ]
-        },
-        {
-            "name": "Unity v1",
-            "filename": "icons/4_Outdated/Unity v1.svg",
-            "category": null,
-            "issuer": [
-                "Unity v1"
-            ]
-        },
-        {
-            "name": "Windscribe v1",
-            "filename": "icons/4_Outdated/Windscribe v1.svg",
-            "category": null,
-            "issuer": [
-                "Windscribe v1"
-            ]
-        },
-        {
-            "name": "Zapier v1",
-            "filename": "icons/4_Outdated/Zapier v1.svg",
-            "category": null,
-            "issuer": [
-                "Zapier v1"
-            ]
-        },
-        {
-            "name": "axe bg.var",
-            "filename": "icons/4_Outdated/axe bg.var.svg",
-            "category": null,
-            "issuer": [
-                "axe bg.var"
-            ]
-        },
-        {
-            "name": "axe",
-            "filename": "icons/4_Outdated/axe.svg",
-            "category": null,
-            "issuer": [
-                "axe"
-            ]
-        },
-        {
-            "name": "bitFlyer v1",
-            "filename": "icons/4_Outdated/bitFlyer v1.svg",
-            "category": null,
-            "issuer": [
-                "bitFlyer v1"
-            ]
-        },
-        {
-            "name": "ecloud",
-            "filename": "icons/4_Outdated/ecloud.svg",
-            "category": null,
-            "issuer": [
-                "ecloud"
-            ]
-        },
-        {
-            "name": "omg.lol v1",
-            "filename": "icons/4_Outdated/omg.lol v1.svg",
-            "category": null,
-            "issuer": [
-                "omg.lol v1"
             ]
         }
     ]
