@@ -15,7 +15,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 :heavy_check_mark: *Almost* always accepted to request or submit.
 
 - Apps / sites that are popular and has Aegis supported 2FA support **(specially wanted).**
-  - *Examples (not limited to):* social media, productivity tools, cloud services, development tools, gaming related.
+  - _Examples (not limited to):_ social media, productivity tools, cloud services, development tools, gaming related.
 - Almost any app / site / service, **that doesn't have the exceptions from below.**
   - Still in spite of this, aegis-icons has right to reject requests or submissions if needed or necessary.
 
@@ -23,12 +23,12 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 :grey_question: Needs some examining before accepting or rejecting. Requests and submissions will be reviewed to determine acceptance.
 
 - Forums, message groups and similar sites / communities using pre-existing hosted software.
-  - Icons based on the software are preferred, as they are more universally usable for users than specific communities.
-    - Detected with tools like [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
-  - *Exception:* really popular forums can get their own icons (at least **over 250,000 total members** and high posting activity).
+  - Icons based on the software are preferred, as those are more universally usable for users than specific communities.
+    - Detected with tools like [BuiltWith](https://builtwith.com/), [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
+  - _Exception:_ really popular forums can get their own icons (at least **over 250,000 total members** and high posting activity).
 - Platforms that icon requester / submitter is the creator or owner of the platform itself.
   - Requests for free work or self-advertising are not accepted.
-  - *Exception:* if platform is actually popular and has potential users for Aegis (see *self-hosted or similar software* for measurement methods).
+  - _Exception:_ if platform is actually popular and has potential users for Aegis (see *self-hosted or similar software* for measurement methods).
 - Self-hosted or similar software.
   - A suggestion is to have ≥ 500 GitHub/GitLab stars or other non-maintainer activity to support the request.
   - If the previously mentioned metrics aren't available, then popularity is measured based on number of search results on Google.
@@ -36,8 +36,8 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
   - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
   - These services are **always** researched from any "not approved" points before accepting.
 - App / site being too vague.
-  - *Examples (not limited to):* sites only having login page and nothing else.
-  - Stating what the app or site does is not enough; there must be at least **some** evidence on the web. Otherwise, the app or site falls into the *shady apps / sites* category.
+  - _Examples (not limited to):_ sites only having login page and nothing else.
+  - Stating what the app or site does is not enough; there must be at least **some** evidence on the web. Otherwise, the app or site falls into the _shady apps / sites_ category.
 
 ### Not approved
 :x: These are never accepted to aegis-icons, **no exceptions!**
@@ -45,10 +45,10 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 - Apps / sites **not** having Aegis supported 2FA support.
   - Also when service has officially discontinued 3rd party 2FA support (only supporting legacy users) and no known workaround for new users.
 - Apps / sites **focusing** on **highly** immoral and/or illegal activity / material.
-  - *Examples (not limited to):* black hat hacking, malware, malvertising, money laundering, scams, illegal or highly controversal sexual material / services, harassment / cyberbullying.
+  - _Examples (not limited to):_ black hat hacking, malware, malvertising, money laundering, scams, illegal or highly controversal sexual material / services, harassment / cyberbullying.
 - Shady apps / sites
-  - *Examples (not limited to):* really private sites with no info on the web, sites with poor reputation.
-- :stop_sign: **Only for icon submissions:** submitting unmodified SVGs / [raster images](https://simple.wikipedia.org/wiki/Raster_graphics) from the web.
+  - _Examples (not limited to):_ really private sites with no info on the web, sites with poor reputation.
+- :paintbrush: **Only for icon submissions:** submitting unmodified SVGs / [raster images](https://simple.wikipedia.org/wiki/Raster_graphics) from the web.
   - Icons must be designed manually for submissions.
 
 ## Icon creation walkthrough
@@ -59,9 +59,9 @@ Lists of softwares that are suitable for making vectors (and opposite).
 #### _Allowed_
 :heavy_check_mark: Most used and approved software, maintainers can possibly give you help with these:
 
-- [Adobe Illustrator](https://adobe.com/products/illustrator) (industry standard)
+- [Adobe Illustrator](https://adobe.com/products/illustrator) (industry standard, commercial)
 - [Affinity by Canva](https://affinity.studio/) (professional freeware creative suite, **remember to select [vector view mode](https://www.affinity.studio/help/design-aids-view-modes/#how-to-display-specific-modes)**)
-  - [Affinity Designer v1 or v2](https://affinity.serif.com/en-gb/v2/) (discontinued, but if own a license then it's totally usable too)
+  - [Affinity Designer v1 or v2](https://affinity.serif.com/en-gb/v2/) (discontinued, but if you own a license then it's totally usable too)
 - [Graphite](https://graphite.art/) (new, but great open source vector graphics editor)
 - [Inkscape](https://inkscape.org) (popular open source vector graphics editor)
 
@@ -69,15 +69,15 @@ Lists of softwares that are suitable for making vectors (and opposite).
 
 - [Figma](https://figma.com) (more known as interface design tool, but has good vector functions for making icons as well, use it only if you know how to use it for vector creation purpose)
 - [Penpot](https://penpot.app/) (same as Figma, but open source)
-- CorelDRAW [Standard](https://www.coreldraw.com/en/product/coreldraw/standard/) or [Creative Suite](https://www.coreldraw.com/en/product/coreldraw/) (old school professional software)
-- [Linearity Curve](https://www.linearity.io/curve/) (macOS only vector graphics editor)
+- CorelDRAW [Standard](https://www.coreldraw.com/en/product/coreldraw/standard/) or [Creative Suite](https://www.coreldraw.com/en/product/coreldraw/) (old school professional software, commercial)
+- [Linearity Curve](https://www.linearity.io/curve/) (macOS only vector graphics editor, commercial)
 
 > [!NOTE]
 > If the software isn't listed here or in the prohibited section, **check the software's website:**
-> - **If the software mentions** being a *"vector graphics editor"* (and **not** a *"photo/image editor"*), then the software is most likely acceptable as long as vectors can be saved as SVG. **But maintainers can't help with your vector creation problems.**
+> - **If the software mentions** being a _"vector graphics editor"_ (and **not** a _"photo/image editor"_), then the software is most likely acceptable as long as vectors can be saved as SVG. **But maintainers can't help with your vector creation problems.**
 
 #### _Prohibited_
-:x: *Some* of the softwares are not approved. **Change to one of the allowed softwares or cancel the creation of the icon.**
+:x: _Some_ of the softwares are not approved. **Change to one of the allowed softwares or cancel the creation of the icon.**
 
 - Adobe Photoshop
 - Affinity Photo
@@ -94,40 +94,85 @@ These softwares are either:
 2. Too basic for proper vector creation.
    - E.g. can't combine logos into one singular path, can't create SVGs without huge amount of bloat.
 
-
 ### Finding source images
-Search through the logo resources to find a vector-based image (SVG, AI, EPS, PDF).
 
+> [!IMPORTANT]
+> Go though these options **in order!**
+
+#### _1. Brand assets & branding guidelines on the company website_
+> :warning: **Mandatory to check first!**
+
+**A.** Go to the brand's website, check all the menus and bottom of the page for possible leads.
+
+**B.** Find and go through these kind of pages:
+
+- Brand *(or anything starting with the word "brand")*
+- Press
+- Media
+- Logos
+- Assets
+- Marketing
+- About
+- *Or anything that might be related*
+  
+**C.** If you didn't find anything, do a [Google](https://www.google.com) search just in case:
+
+```
+site:offical-address-for-app-or-site-here.com brand OR logo OR media OR press
+```
+    
+> **Examples:**
+> - GitHub has ["Brand Toolkit" page](https://brand.github.com/), it has downloadable logos and guidelines for using logos, color etc.
+> - Zenkit has ["Press Kit" page](https://zenkit.com/en/press-kit), that has ZIP file containing all the logos.
+
+**D.1.** If you did found the logo files, _check that there's vector files (SVG, AI, EPS, PDF) and not just raster files._
+
+**D.2.** If you didn't find anything after all these steps, _then go to the next step:_
+
+#### _2. Embedded logo(s) on the company website_
+**Easiest and recommended way** for finding / downloading SVGs from web pages is using [SVG Gobbler](https://www.svggobbler.com) browser extension (Chromium & Firefox, [open source](https://github.com/rossmoody/svg-gobbler)).
+
+<details>
+<summary><i>Ways without extension</i></summary>
+
+---
+
+**A.** Try right-clicking logo image and selecting <kbd><i>Save image as...</i></kbd>, and see if the save dialogue appears with SVG (not as JPG, PNG, GIF, WebP or [any other raster graphic format](https://en.wikipedia.org/wiki/Image_file_formats#Raster_formats)).
+
+- If right-clicking the image does not have an option for <kbd><i>Save image as...</i></kbd>, try using <kbd><i>Inspect</i></kbd> at the bottom of the right-click menu. This opens the developer tools which can reveal hidden URLs.
+- Sometimes SVG is embedded as inline. This means that instead of linking to an external file, the whole SVG file code is added to the HTML site code (see [SVG code example](https://gist.github.com/krisu5/677a8a3478331498929a11b900741aa2)). In that case, copy the SVG code completely from HTML (website embedded SVG starts with `<svg` & so forth and ends with `</svg>`), open a text editor and save copypasted text as `filename.svg`. To test if the file works, open the file into a web browser (drag-and-drop SVG to tab bar or *shortcut:* <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>O</kbd>).
+
+**B.** Right-click the website and select <kbd><i>View page source</i></kbd>, then press <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>F</kbd> to open the search tool and type `SVG` to look for possible SVG vector files. Web inspector is also useful and better tool for some users / use cases (press <kbd>F12</kbd> on the website, go to "Inspector" / "Elements" tab, then press <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>F</kbd> to search).
+
+---
+
+</details>
+
+If you didn't find anything good with these steps, _then go to the next step:_
+
+#### _3. Check the unofficial logo resources_
+If everything has failed so far, then check out [unofficial logo resources](#unofficial-logo-resources) section and go through those sites.
+
+> [!IMPORTANT]
+> Always check that brand's logo in the unofficial resources is up to date!
+
+If you didn't find correct match on those resources, _then go to the next step:_
+
+#### _4. Use image tracing or do manual recreation_
+As a last resort, [image tracing](#image-tracing-tools) with raster images can be attempted.
+
+> [!WARNING]
+> Only use tools recommended in the "image tracing tools" section. _Using image trace tool outside of the list is not acceptable._
+
+Making a vectorised logo from scratch is also an option with the necessary skills, time and patience.
+
+#### _General notices for source images_
 > [!CAUTION]
-> Never use JPG / PNG / GIF / WebP or other raster images **(as is)!**
-
-*Here are things to check, go though these options in order:*
-
-- **Press kit on the company website**
-  - Eg. Zenkit has ["Press Kit" page](https://zenkit.com/en/press-kit), that has ZIPs containing vector-based logos.
-  - Look for pages like: *Brand(ing), Press, Media, Logos, Assets, Marketing, About* etc.
-    - Trying searching too: `logo site:offical-site-for-app-or-site.com`
-- **Embedded logo(s) on company website**
-  - **Easiest way** for finding / downloading SVGs from web pages is using [SVG Gobbler](https://www.svggobbler.com) browser extension (Chrome & Firefox, [open source](https://github.com/rossmoody/svg-gobbler)).
-
-  - **Ways without extension:**
-    1. Try right-clicking logo image and selecting <kbd><i>Save image as...</i></kbd>, and see if the save dialogue appears with SVG (not as JPG, PNG, GIF, WebP or [any other raster graphic format](https://en.wikipedia.org/wiki/Image_file_formats#Raster_formats)).
-       - If right-clicking the image does not have an option for <kbd><i>Save image as...</i></kbd>, try using <kbd><i>Inspect</i></kbd> at the bottom of the right-click menu. This opens the developer tools which can reveal hidden URLs.
-          - Eg. at [Codeberg](https://codeberg.org), inspecting the logo in the left side of the navigation or logo at center reveals the location of SVG. Right-click and "open in new tab" to see the SVG file.
-          - Sometimes SVG is embedded as inline. This means that instead of linking to an external file, the whole SVG file code is added to the HTML site code (see [SVG code example](https://gist.github.com/krisu5/677a8a3478331498929a11b900741aa2)). In that case, copy the SVG code completely from HTML (website embedded SVG starts with `<svg` & so forth and ends with `</svg>`), open a text editor and save copypasted text as `filename.svg`. To test if the file works, open the file into a web browser (drag-and-drop SVG to tab bar or *shortcut:* <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>O</kbd>).
-    2. Right-click the website and select <kbd><i>View page source</i></kbd>, then press <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>F</kbd> to open the search tool and type `SVG` to look for possible SVG vector files. Web inspector is also useful and better tool for some users / use cases (press <kbd>F12</kbd> on the website, go to "Inspector" / "Elements" tab, then press <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>F</kbd> to search).
-       - Eg. [You Need A Budget](https://youneedabudget.com) reveals the hidden SVG resource in HTML metadata section (`https://www-assets.youneedabudget.com/wp-content/themes/dupatta/dist/images/safari-pinned-tab_[alphanumerical-string].svg`) which can be copy-paste into the browser and save (<kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>S</kbd>).
-- If everything has failed so far, then **check [logo resources](#logos) section.**
-  - Remember though, logo has to be latest one that company uses.
-- As a last resort, **[image tracing](#image-tracing-tools) with raster images** can be attempted.
-  - :warning: Only use tools recommended in the "image tracing tools" section. *Using tool outside of the list is not acceptable.*
-- **Making a vectorised logo from scratch** is also an option with the necessary skills and patience.
+> - **Never** use JPG, PNG, GIF, WebP or other raster images **(as is)!**
+> - Watch out for SVGs that are using raster graphics ([example](https://github.com/haiwen/seafile-client/blob/7d8f06111960921ce01ef08e169d41bae13959ed/data/icons/scalable/apps/seafile.svg?short_path=d0d75d2#L54-L218)). These aren't common, but do exist.
 
 > [!TIP]
 > Is the SVG file broken? [SVG compression with SVGO or SVGOMG](#svg-compression--cleanup) might just fix the file.
-
-> [!WARNING]
-> Watch out for SVGs that are using raster graphics ([example](https://github.com/haiwen/seafile-client/blob/7d8f06111960921ce01ef08e169d41bae13959ed/data/icons/scalable/apps/seafile.svg?short_path=d0d75d2#L54-L218)). These are not common, but does exist.
 
 ### Templates
 When making icons, download and use provided [templates](/_templates).
@@ -393,11 +438,11 @@ If changes related to JSONs are needed, [create an issue instead](https://github
 ## Resources
 Resources marked with star (:star:) are recommended / most used by the maintainers.
 
-### Logos
+### Unofficial logo resources
 Resources for finding logos in vector format, when no official brand kit / vector logos are available.
 
 > [!CAUTION]
-> Remember to always double check if logo provided by these resources is the latest one company uses!
+> Remember to always double check if logo provided by these resources is the latest one the brand uses!
 
 - [Brandfetch](https://brandfetch.com) (not always accurate results)
 - [LogoSearch](https://logosear.ch) :star:
@@ -408,9 +453,9 @@ Resources for finding logos in vector format, when no official brand kit / vecto
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 - Wikipedia pages of the brand :star:
 
-More resources at [LogoSearch's "Alternative Logo Sources"](https://logosear.ch/alternatives) list.
+More resources at [LogoSearch's "Alternative Logo Sources"](https://logosear.ch/sources/index.html) list.
 
-#### _Google tips for searching logos_
+#### *Google tips for searching logos*
 - `logo site:offical-site-for-app-or-site.com`
 - `filetype:pdf site:offical-site-for-app-or-site.com` (vectors can be extracted from PDFs, as logos in these PDFs are often vector-based).
 - `"app-or-site-name-here" svg` or `"app-or-site-name-here" vector`.
