@@ -63,7 +63,7 @@ Lists of softwares that are suitable for making vectors (and opposite).
 - [Affinity by Canva](https://affinity.studio/) (professional freeware creative suite, **remember to select [vector view mode](https://www.affinity.studio/help/design-aids-view-modes/#how-to-display-specific-modes)**)
   - [Affinity Designer v1 or v2](https://affinity.serif.com/en-gb/v2/) (discontinued, but if own a license then it's totally usable too)
 - [Graphite](https://graphite.art/) (new, but great open source vector graphics editor)
-- [Inkscape](https://inkscape.org) (popular open source option)
+- [Inkscape](https://inkscape.org) (popular open source vector graphics editor)
 
 :grey_question: Common software that's allowed, but maintainers can't help with these:
 
