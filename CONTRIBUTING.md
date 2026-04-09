@@ -88,9 +88,12 @@ Lists of softwares that are suitable for making vectors (and opposite).
 - Paint.NET
 - [(And more...)](https://en.wikipedia.org/wiki/Comparison_of_raster_graphics_editors#List)
 
-These softwares are mostly for photo / raster image editing and aren't designed for vector creating.
+These softwares are either:
 
-Some of the softwares *might* have some basic vector editing capabilities, but aren't good enough for e.g. combining logos into one path or creating SVGs without lot of bloat code.
+1. For photo / raster image editing (and not designed for vector creating).
+2. Too basic for proper vector creation.
+   - E.g. can't combining logos into one singular path, can't create SVGs without huge amount of bloat.
+
 
 ### Finding source images
 Search through the logo resources to find a vector-based image (SVG, AI, EPS, PDF).
