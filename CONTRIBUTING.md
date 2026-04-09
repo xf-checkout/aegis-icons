@@ -31,7 +31,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
   - *Exception:* if platform is actually popular and has potential users for Aegis (see *self-hosted or similar software* for measurement methods).
 - Self-hosted or similar software.
   - A suggestion is to have ≥ 500 GitHub/GitLab stars or other non-maintainer activity to support the request.
-  - If the previously mentioned metrics aren't available, then popularity is measured based on number of search results.
+  - If the previously mentioned metrics aren't available, then popularity is measured based on number of search results on Google.
 - Adult content, piracy & gambling related sites / apps / services.
   - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
   - These services are **always** researched from any "not approved" points before accepting.
