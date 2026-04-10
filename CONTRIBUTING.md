@@ -321,7 +321,7 @@ Always use `svg_template.svg` as base for the icon.
   - [More info at the "generic icons" section](#generic-icons).
 <br>
 
-### bg.var, fg.var & fg.bg.var icons
+### Variation icons
 
 > [!NOTE]
 > `var` is abbreviation of *variation*.
@@ -447,7 +447,7 @@ When everything is done and ready to go, [submit icons with either as pull reque
   - _Means all the logo based icons that aren't variations / alternatives._
 - Variation and alternative icons ➜
   - `/icons/2_Variations/` folder.
-  - _[What's the variation icon?](#bgvar-fgvar--fgbgvar-icons)_
+  - _[What's the variation icon?](#variation-icons)_
   - _[What's the alternative icon?](#alternative-icons)_
 - Generic icons ➜
   - `/icons/3_Generic/` folder.
@@ -464,9 +464,9 @@ When everything is done and ready to go, [submit icons with either as pull reque
   - `[Company / product / app / site name].<ext>`
   - *Examples:* `Adobe.svg`, `Best Buy.svg`, `FACEIT.svg`, `itch.io.svg`
   
-- **Icon variations with different background colour _OR_ black foreground:**
-  - `[Primary icon name] bg.var.<ext>`
-  - `[Primary icon name] fg.var.<ext>`
+- **Icon variations with different background colour _OR_ black logo:**
+  - `[Primary icon name] bg.var.<ext>` (if with different background)
+  - `[Primary icon name] fg.var.<ext>` (if with black logo)
   - *Examples:* `Squarespace bg.var.svg`, `Snapchat fg.var.svg`
   
 - **Generic icons:** 
@@ -476,11 +476,11 @@ When everything is done and ready to go, [submit icons with either as pull reque
 <details>
 <summary>
   <samp><ins>
-    Uncommon type of icons
+    Uncommon types of icons
   </ins></samp>
 </summary>
 
-> - **Icon variations with black foreground _AND_ different background colour:**
+> - **Icon variations with black foreground _PLUS_ different background colour:**
 >   - `[Primary icon name] fg.bg.var.<ext>`
 >   - *Example:* `Lichess fg.bg.var.svg`
 > 
@@ -488,16 +488,15 @@ When everything is done and ready to go, [submit icons with either as pull reque
 >   - `[Primary icon name] alt.<ext>`
 >   - *Example:* `IVPN alt.svg`
 >
-> - **Alternative icons with different background colour _OR/AND_ black foreground:**
->   - `[Primary icon name] alt bg.var.<ext>`
->   - `[Primary icon name] alt fg.var.<ext>`
->   - `[Primary icon name] alt fg.bg.var.<ext>`
+> - **Alternative icons with different background colour _OR/AND_ black logo:**
+>   - `[Primary icon name] alt bg.var.<ext>` (if with different background)
+>   - `[Primary icon name] alt fg.var.<ext>` (if with black logo)
+>   - `[Primary icon name] alt fg.bg.var.<ext>` (if with different background _PLUS_ black logo)
 >   - *Example:* `Discourse alt bg.var.svg`
 </details>
-  
----
+<br>
 
-#### _Replacing icons with updated ones_
+### Replacing icons with updated ones
 
 - You can replace the icon file(s) with same brand name, if you're updating it in some way (new logo / branding or general fixes).
 - In rare cases, if the icon(s) is outdated as brand **and** name wise (ie. brand makes complete branding overhaul, [some actual cases](https://github.com/aegis-icons/aegis-icons/issues?q=f.k.a.)), then remove the icon(s) with old name and add new one(s) to the repository.
@@ -506,7 +505,7 @@ When everything is done and ready to go, [submit icons with either as pull reque
 ### About JSONs
 
 > [!WARNING]
-> **Please do not submit PRs that make changes to JSON files!**
+> **Do NOT submit PRs that make changes to JSON files!**
 >
 > Because of the JSON update process, only workflows and maintainers are allowed to make changes to JSONs.
 <br>
