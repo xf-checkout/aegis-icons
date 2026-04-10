@@ -500,7 +500,7 @@ When everything is done and ready to go, [submit icons with either as pull reque
 
 ## Resources
 
-Resources marked with star (:star:) are recommended / most used by the maintainers.
+Resources marked with star ( :star: ) are recommended / most used by the maintainers.
 <br><br>
 
 ### Unofficial logo resources
