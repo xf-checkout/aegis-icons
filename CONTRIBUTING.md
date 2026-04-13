@@ -443,7 +443,7 @@ _For those unfamiliar with command line usage:_
   - _See the [example SVG code after manual cleanup](https://github.com/aegis-icons/misc/commit/c0128f61f0d2b88d5953881699955a4a17477e47?diff=split) for aimed optimal result._
 
 > [!CAUTION]
-> **Test the SVG on the web browser** that the svg still works after edits! (drag-and-drop SVG to tab bar or _"Open File..." shortcut:: <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>O</kbd>).
+> **Test the SVG on the web browser** that the svg still works after edits! (drag-and-drop SVG to tab bar or _"Open File..." shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>O</kbd>).
 
 When everything is done and ready to go, **submit the icons to the repository with pull request.**
 
