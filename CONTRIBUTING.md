@@ -275,12 +275,12 @@ _Documentation coming soon... (krisu5 will add basic documentation for a start).
   </ins></samp>
 </summary>
 
-> 1. Open **Layers** window, if it's not already open (_shortcut:_ <kbd>F7</kbd> or _menu:_ <kbd><i>Window</i> ➜ <i>Layers</i></kbd>)
+> 1. Open **Layers** window, if it's not already open (_shortcut:_ <kbd>F7</kbd> or _menu:_ <kbd><i>Window</i></kbd> ➜ <kbd><i>Layers</i></kbd>)
 > 2. Ungroup all the layer groups related to the logo completely.
 >    - "Target select" the layer group in **Layers** window by clicking "circle" (○) on the right (<kbd>Shift</kbd>+<kbd>Click</kbd> to select multiple groups).
 >    - Press <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd> multiple times until everything is ungrouped.
-> 3. Keep all the logo parts "target selected" and make compound path (_menu:_ <kbd><i>Object</i> ➜ <i>Compound Path</i> ➜ <i>Make</i></kbd> or _shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>8</kbd>).
->    - If compound pathing doesn't work, open **Pathfinder** window (_menu:_ <kbd><i>Window</i> ➜ <i>Pathfinder</i></kbd> or _shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Shift</kbd>+<kbd>F9</kbd>) and press "Unite" (top-left icon in the window under "Shape modes" text).
+> 3. Keep all the logo parts "target selected" and make compound path (_menu:_ <kbd><i>Object</i></kbd> ➜ <kbd><i>Compound Path</i></kbd> ➜ <kbd><i>Make</i></kbd> or _shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>8</kbd>).
+>    - If compound pathing doesn't work, open **Pathfinder** window (_menu:_ <kbd><i>Window</i></kbd> ➜ <kbd><i>Pathfinder</i></kbd> or _shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Shift</kbd>+<kbd>F9</kbd>) and press "Unite" (top-left icon in the window under "Shape modes" text).
 </details>
 
 <details>
@@ -290,18 +290,18 @@ _Documentation coming soon... (krisu5 will add basic documentation for a start).
   </ins></samp>
 </summary>
 
-> 1. Open **Layers** window, if it's not already open (_menu:_ <kbd><i>View</i> ➜ <i>Studio</i> ➜ <i>Layers</i></kbd>).
+> 1. Open **Layers** window, if it's not already open (_menu:_ <kbd><i>View</i></kbd> ➜ <kbd><i>Studio</i></kbd> ➜ <kbd><i>Layers</i></kbd>).
 > 2. In canvas, use "Move" tool (<kbd>V</kbd>) and select logo layers by click & drag across the logo (avoid selecting circle).
 > 3. Ungroup multiple times until everything in the logo is ungrouped (<kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd>).
 > 4. Unselect everything (click outside of canvas with "Move" tool).
 > 5. Repeat step 2.
 >    - :information_source: **Before moving to step 6,** read "Important step for Affinity by Canva / Affinity Designer" note below and do the requested extra steps.
-> 6. Combine logo (_menu:_ <kbd><i>Layer</i> ➜ <i>Geometry</i> ➜ <i>Add</i></kbd>).
+> 6. Combine logo (_menu:_ <kbd><i>Layer</i></kbd> ➜ <kbd><i>Geometry</i><kbd> ➜ <kbd><i>Add</i></kbd>).
 </details>
 
 > [!CAUTION]
 > **Important step for Affinity by Canva / Affinity Designer:**
-> Select the logo vector (and its parts) and change "fill mode" from _"Winding (Non-Zero)"_ **into** _"Alternative (Even-Odd)"_ (_menu:_ <kbd><i>Layer</i> ➜ <i>Fill Mode</i></kbd>). Otherwise, undesired CSS rules are created and needed for the SVGs (the vector path should contain everything without CSS trickery).
+> Select the logo vector (and its parts) and change "fill mode" from _"Winding (Non-Zero)"_ **into** _"Alternative (Even-Odd)"_ (_menu:_ <kbd><i>Layer</i></kbd> ➜ <kbd><i>Fill Mode</i></kbd>). Otherwise, undesired CSS rules are created and needed for the SVGs (the vector path should contain everything without CSS trickery).
 
 <details>
 <summary>
@@ -310,10 +310,10 @@ _Documentation coming soon... (krisu5 will add basic documentation for a start).
   </ins></samp>
 </summary>
 
-> 1. Open **Objects** window (_menu:_ <kbd><i>Object</i> ➜ <i>Objects</i></kbd>).
+> 1. Open **Objects** window (_menu:_ <kbd><i>Object</i></kbd> ➜ <kbd><i>Objects</i></kbd>).
 > 2. Select all the objects related to logo (<kbd>Shift</kbd>+<kbd>Click</kbd> in the **Objects** window).
-> 3. Ungroup the object multiple times until everything is ungrouped (_menu:_ <kbd><i>Object</i> ➜ <i>Ungroup</i></kbd> or _shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd>).
-> 4. Combine the objects to together (_menu:_ <kbd><i>Path</i> ➜ <i>Combine</i></kbd>).
+> 3. Ungroup the object multiple times until everything is ungrouped (_menu:_ <kbd><i>Object</i></kbd> ➜ <kbd><i>Ungroup</i></kbd> or _shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd>).
+> 4. Combine the objects to together (_menu:_ <kbd><i>Path</i></kbd> ➜ <kbd><i>Combine</i></kbd>).
 </details>
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
@@ -393,7 +393,7 @@ Just change the logo for alternative version.
 > [!NOTE]
 > Please read the info about naming at the [filename](#filename) section.
 
-- If using **Adobe Illustrator CC 2017 or newer**, save the file as SVG with _"Export for Screens"_ option (_shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Alt [⌥ Option]</kbd>+<kbd>E</kbd> or _menu:_ <kbd><i>File</i> ➜ <i>Export</i> ➜ <i>Export for Screens...</i></kbd>) with [these settings](https://raw.githubusercontent.com/aegis-icons/misc/main/screenshots/contributing_007.png).
+- If using **Adobe Illustrator CC 2017 or newer**, save the file as SVG with _"Export for Screens"_ option (_shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>Alt [⌥ Option]</kbd>+<kbd>E</kbd> or _menu:_ <kbd><i>File</i></kbd> ➜ <kbd><i>Export</i></kbd> ➜ <kbd><i>Export for Screens...</i></kbd>) with [these settings](https://raw.githubusercontent.com/aegis-icons/misc/main/screenshots/contributing_007.png).
   - **For older Illustrator versions,** [check the other methods mentioned here](https://css-tricks.com/illustrator-to-svg) <sup>[[wayback machine](https://web.archive.org/web/20220425015517/https://css-tricks.com/illustrator-to-svg)]</sup>
   - Saving (temporarily) to `ai` file format for making edit requests may be faster and easier to do.
 - For other softwares:
