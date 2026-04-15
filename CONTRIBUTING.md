@@ -603,7 +603,7 @@ In a nutshell, image tracing means converting raster image (PNG, JPG etc.) to ve
 
 :balance_scale: **Things to check before image tracing:**
 1. Use high resolution image if possible.
-2. Preferably with image that doesn't have many colours (one color image is ideal).
+2. Preferably with image that doesn't have many colours (one color logo on solid one color or transparent background is most ideal).
 3. Doesn't have any or minimal amount of [compression artifacts](https://simple.wikipedia.org/wiki/Compression_artifact), zoom into image and check.
    - If image does have artifacts, try [Pix Fix](https://pixfix.com) tool to fix the image.
 
