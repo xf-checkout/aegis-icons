@@ -6,84 +6,122 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### :loudspeaker: [Read our issue guidelines first](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already!
-        :angry: **If you don't read / follow the issue guidelines**, your issue(s) might **get rejected** and, *in the worse case*, **get you banned.**
-        *(Issue guidelines was last updated on: **2022-10-26**).*
+        > [!IMPORTANT]
+        > ### :loudspeaker: [Read our issue guidelines first](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already! *Always recheck them for any guideline updates.*
+        > 
+        > - :angry: **If you don't read / follow the issue guidelines**, your issue(s) might **get rejected** and, *in the worse case*, **get you banned indefinitely.**
+        > - :bangbang: Do not request multiple icons in single issue, make multiple issues instead.
+        >
+        > ### :triangular_flag_on_post: Issue title formatting *(top text field)*
+        > - Remember to **add name of the brand / site / app** at the end of *"Icon request:"* text.
+        >   - Eg. `Icon request: GitHub`
+        > - Please use proper capitalization / spelling for the name
+        >   - Check the capitalization / spelling from browser tab title or body text of their website, **not from the logo!**
+        > - **Do not change the formatting of the title!**
         
-        *And do not request multiple icons in single issue, make multiple issues instead.*
-        
-        ### :triangular_flag_on_post: Issue title formatting *(top text field)*
-        - Remember to **add name of the brand / site / app** at the end of *"Icon request:"* text.
-          - Eg. `Icon request: GitHub`
-        - Please use proper capitalization / spelling for the name (check the capitalization / spelling from browser tab title or body text of their website, **not from the logo!**).
-        - **Do not change the formatting of the title!**
-        
-        ---
+        <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
+
+
   - type: input
     id: site_app-url
     attributes:
       label: URL for the brand / site / app
+      description: |
+        1. **Remember to add *https://* (or *http://*)** to start of the URL.
+        2. **Link should be the homepage of the site** (not login page or any other miscellaneous page).
       placeholder: Eg. https://example.com
     validations:
-      required: true
+      required: true  
   - type: markdown
     attributes:
       value: |
-        Remember to add *https://* (or *http://*) to start of the URL.
-        Link should be the homepage of the site (not login page or any other miscellaneous page).
-        
         - :globe_with_meridians: Please link to english version of the site, if site has that option!
         - :underage: If this entity is explicitly ["not safe for work"](https://en.wikipedia.org/wiki/Not_safe_for_work), please add ` (NSFW)` after the URL.
-        - :warning: **Don't add Play Store link or other app store links**, unless requested entity doesn't have any other website.
+        - :warning: **Don't add Play Store links or other app store links**, unless requested entity doesn't have any other website.
         
-        ---
+        <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
+
+
   - type: input
     id: logo-url
     attributes:
       label: Logo resources for the icon
       placeholder: Eg. https://example.com/press-kit OR https://example.com/logo.svg
+      description: |
+        Optional. Add URL for **press kit** or *logo SVG / EPS / AI vector resource*, preferably from official source ([instructions for finding these](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#finding-the-source-material)).
   - type: markdown
     attributes:
       value: |
-        Optional option to add URL for *press kit* or *logo SVG / EPS / AI vector resource*, preferably from official source ([tips for finding these](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#finding-source-images)).
-        
-        - :x: **Unaccepted resources:** JPG, PNG, GIF, WebP, ICO or [any other raster image](https://en.wikipedia.org/wiki/Image_file_format#Raster_formats_(2D)).
+        - :x: **Unaccepted resources:** JPG, PNG, GIF, WebP, AVIF, ICO or [any other raster image](https://en.wikipedia.org/wiki/Image_file_format#Raster_formats_(2D)).
+          - Please leave it empty if you **didn't find** vector resources. Raster resources aren't helpful.
           - *[Why vector images instead of raster (a.k.a. bitmap) images](https://www.lifewire.com/vector-and-bitmap-images-1701238#toc-ease-of-use-vectors-are-more-robust)*.
         - :x: **NO [data URIs](https://en.wikipedia.org/wiki/Data_URI_scheme), SVG code** or anything **that's NOT web URL!** *(Forbidden because of long character lengths.)*
-          - Data uri starts with: `data:image/` (and so on)
-          - SVG code starts with: `<svg` (and so on)
+          - Data uri starts with: `data:image/` (and so forth).
+          - SVG code starts with: `<svg` (and so forth).
+          
+        *Adding resource doesn't guarantee that aegis-icons will use it for the icon.*
         
-        *Adding a optional resource doesn't guarantee that aegis-icons will use it for the icon.*
-        
-        ---
+        <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
+
+
   - type: textarea
     id: 2fa-proof
     attributes:
       label: Proof of the Aegis-compatible 2FA
+      description: |
+        Optional, but recommended!
   - type: markdown
     attributes:
       value: |
         *Add either:*
-        - Link to documentation page / announcement post related to TOTP / Google Authenticator 2FA (**prefered option #1**)
-        - Link to 2FA Directory's GitHub pull request page for the service ([search them here](https://github.com/2factorauth/twofactorauth/pulls?q=is%3Apr), **prefered option #2**)
-        - Screenshot proof of the TOTP / Google Authenticator 2FA settings page or login prompt **(if either prefered option wasn't available)**
+        - **Prefered option #1:** Link to documentation page / announcement post related to TOTP / Google Authenticator 2FA.
+        - **Prefered option #2:** Link to 2FA Directory's GitHub pull request page for the service, [search them here](https://github.com/2factorauth/twofactorauth/pulls?q=is%3Apr).
+        - **If either preferred option was unavailable:** Screenshot proof of the TOTP / Google Authenticator 2FA settings page or login prompt.
           - :x: **NO screenshots from Aegis app, period!** Only from the service you have the account on.
-          - *Censor sensitive info if needed (QR codes, 2FA seed codes, personal information etc.)*
-          
-        > **Note** – Documentation link or screenshot should clearly mention that 2FA is (T)OTP / HOTP or any mobile 2FA app (eg. Google Authenticator, Microsoft Authenticator, LastPass Authenticator etc.) or show section of the 2FA setup page with *(censored)* OTP 2FA QR code image. **Otherwise we cannot be sure if 2FA actually is compatible for Aegis.**
+          - *Censor sensitive info if needed (QR codes, 2FA seed codes, personal information etc).*
         
-        *This is optional, but **if we cannot find info about 2FA from the website, Google nor [2FA Directory](https://2fa.directory/int/)**, then we **reject the request** (we give you possibility for reopening though by sending the proof via comment).*
+        <a name="important-about-proof"></a>   
+        > [!IMPORTANT]
+        > Documentation link or a screenshot for 2FA/MFA settings page (or login prompt) you provided **MUST CLEARLY STATE** that it either supports:
+        > 1. (T)OTP/HOTP protocols.
+        > 2. Authenticator apps (for example: Google Authenticator, Microsoft Authenticator, LastPass Authenticator).
+        >
+        > Alternatively, include a screenshot of the 2FA/MFA setup page that displays the (T)OTP QR code *(remember to censor sensitive information)*.
+        >
+        > **Otherwise we cannot be sure if 2FA/MFA is actually compatible with Aegis.**
         
-        ---
+        *The "proof of the Aegis-compatible 2FA" field is optional, but **if we cannot find info about 2FA/MFA from the official website, Google nor [2FA Directory](https://2fa.directory/int/)**, then we might **reject the request** (we give you possibility for reopening though by sending the proof via comment). If the proof is lacking, we give you 30 days to response before closing the issue.*
+        
+        <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
+
+
   - type: textarea
     id: anything-else
     attributes:
       label: Anything else?
-      description: "Optional text field to add other info: extra info about branding, kudos etc."
+      description: |
+        Optional text field to add other info: extra info about branding, kudos etc.
+  - type: markdown
+    attributes:
+      value: |
+        <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
+
   - type: checkboxes
     id: terms
     attributes:
-      label: Confirmation
+      label: Confirmations
+      description: |
+        **IMPORTANT:** Answer truthfully.
       options:
         - label: I have read and followed the [issue guidelines](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & issue form.
           required: true
+        - label: I added the name of the brand / site / app to the issue title *([top text field](#))*.
+          required: true
+        - label: I used proper capitalization / spelling for the brand / site / app on the issue title *([top text field](#))*.
+          required: true
+        - label: I did not change the formatting of the issue title *([top text field](#))*.
+          required: true
+        - label: _If I added a proof of the Aegis-compatible 2FA,_ I checked that [documentation link or screenshot is acceptable](#important-about-proof)
+          required: true
+        - label: I did not read anything what this issue form said.
+          required: false
