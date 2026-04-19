@@ -22,6 +22,10 @@ body:
         <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
 
 
+  - type: markdown
+    attributes:
+      value: |      
+        <a name="url-requirements"></a>
   - type: input
     id: site_app-url
     attributes:
@@ -35,7 +39,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        <a name="url-requirements"></a>
         - :globe_with_meridians: Please link to english version of the site, if site has that option!
         - :underage: If this entity is explicitly ["not safe for work"](https://en.wikipedia.org/wiki/Not_safe_for_work), please add ` (NSFW)` after the URL.
         - :warning: **Don't add Play Store links or other app store links**, unless requested entity doesn't have any other website.
