@@ -1,5 +1,5 @@
 name: Update icon
-description: Request update for icon, if branding is outdated.
+description: Request update for icon, if branding is outdated or brand changed their name.
 title: "Update icon: "
 labels: ["Update"]
 body:
