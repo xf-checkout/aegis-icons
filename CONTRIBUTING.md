@@ -67,7 +67,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
   - _Examples (not limited to):_ black hat hacking, malware, malvertising, money laundering, scams, illegal or highly controversal sexual material / services, harassment / cyberbullying.
 - Shady apps / sites
   - _Examples (not limited to):_ really private sites with no info on the web, sites with poor reputation.
-- :paintbrush: **Only for icon submissions:** submitting unmodified SVGs / [raster images](https://simple.wikipedia.org/wiki/Raster_graphics).
+- :hammer_and_pick: **Only for icon submissions:** submitting unmodified SVGs / [raster images](https://simple.wikipedia.org/wiki/Raster_graphics).
   - Icons must be designed manually for submissions.
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
