@@ -34,7 +34,7 @@
 - [Phosphor Icons](https://phosphoricons.com) by Helena Zhang ([MIT](https://github.com/phosphor-icons/phosphor-home/blob/master/LICENSE))
 - [Simple Icons](https://simpleicons.org) ([CC0 1.0 Universal](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md))
 
-**And [special thanks to these contributors!](CREDITS-TO-CONTRIBUTORS.md)**
+**And [special thanks to these contributors!](https://github.com/aegis-icons/aegis-icons/graphs/contributors)** _(more credits at retired [CREDITS-TO-CONTRIBUTORS](https://github.com/aegis-icons/misc/blob/main/retired/CREDITS-TO-CONTRIBUTORS.md) document)._
 
 ## Alternatives
 This project's icons are not intended for general-purpose use, but focus specifically on the userbase of [Aegis, the Android app](https://getaegis.app).
