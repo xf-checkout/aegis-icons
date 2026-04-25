@@ -658,7 +658,7 @@ site:official-domain-of-the-app-or-site.com 2fa OR mfa OR otp OR totp OR factor 
   https://github.com/aegis-icons/aegis-icons.github.io/blob/main/_includes/1c____issue-guidelines.md
 -->
 
-_Issue guidelines was last updated on: **2026-04-25**_
+_Issue guidelines was last updated on:_ **2026-04-25**
 
 1. App / site related requests has to **have Aegis-compatible 2FA support** one way or another, this project does not make icons outside of Aegis usage.
    - _Don't lie,_ we always double-check if requested service has Aegis-compatible 2FA support. You can add proof for the existence of Aegis-compatible 2FA to the issue form's _"Proof of the Aegis-compatible 2FA"_ section.
