@@ -37,7 +37,7 @@
 **And [special thanks to these contributors!](https://github.com/aegis-icons/aegis-icons/graphs/contributors)** _(more credits at retired [CREDITS-TO-CONTRIBUTORS](https://github.com/aegis-icons/misc/blob/main/retired/CREDITS-TO-CONTRIBUTORS.md) document)._
 
 ## Alternatives
-This project's icons are not intended for general-purpose use, but focus specifically on the userbase of [Aegis, the Android app](https://getaegis.app).
+This project's icons are not intended for general-purpose use, but focus specifically on the userbase of [Aegis Authenticator](https://getaegis.app).
 
 If you need logos for general-purpose, check out [Simple Icons](https://simpleicons.org) instead.
 

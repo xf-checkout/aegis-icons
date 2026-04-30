@@ -9,14 +9,14 @@ body:
         > [!IMPORTANT]
         > ### :loudspeaker: [Read our issue guidelines first](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already! _Always recheck them for any guideline updates._
         > 
-        > - :angry: **If you don't read / follow the issue guidelines**, your issue(s) might **get rejected** and, _in the worse case_, **get you banned indefinitely.**
-        > - :bangbang: Do not request multiple icons in single issue, make multiple issues instead.
+        > - :warning: **If you don't read / follow the issue guidelines**, your issue(s) might **get rejected** and, _in the worse case_, **get you banned indefinitely.**
+        > - :x: Do not request multiple icons in single issue, make multiple issues instead.
         >
         > ### :triangular_flag_on_post: Issue title formatting _(text field at the top)_
         > - Remember to **add name of the brand / site / app** at the end of _"Update icon:"_ text.
-        >   - Eg. `Update icon: GitHub`
+        >   - Example: `Update icon: GitHub`
         >   - If brand changed their name, format it like this: `Update icon: NEW-BRAND-NAME (f.k.a. OLD-BRAND-NAME)`
-        > - Please use proper capitalization / spelling for the name
+        > - Please use proper capitalization / spelling for the name.
         >   - Check the capitalization / spelling from browser tab title or body text of their website, **not from the logo!**
         > - **Do not change the formatting of the title!**
         
@@ -42,9 +42,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        - :globe_with_meridians: Please link to english version of the site, if site has that option!
-        - :underage: If this entity is explicitly ["not safe for work"](https://en.wikipedia.org/wiki/Not_safe_for_work), please add ` (NSFW)` after the URL.
-        - :warning: **Don't add Play Store links or other app store links**, unless requested entity doesn't have any other website.
+        - Please link to english version of the site, if site has that option!
+        - If site is explicitly ["not safe for work"](https://en.wikipedia.org/wiki/Not_safe_for_work), please add ` (NSFW)` after the URL.
+        - :x: **NO Play Store links or other app store links**, unless requested entity doesn't have any other website.
         
         <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
 
@@ -82,7 +82,7 @@ body:
       value: |
         - :x: **Unaccepted resources:** JPG, PNG, GIF, WebP, AVIF, ICO or [any other raster image](https://en.wikipedia.org/wiki/Image_file_format#Raster_formats_(2D)).
           - Please leave it empty if you **haven't found** vector resources. Raster resources aren't helpful.
-        - :x: **NO [data URIs](https://en.wikipedia.org/wiki/Data_URI_scheme), SVG code** or anything **that's NOT web URL!** _(Forbidden because of long character lengths.)_
+        - :x: **NO [data URIs](https://en.wikipedia.org/wiki/Data_URI_scheme), SVG code** or anything **that's NOT web URL!** _Forbidden because of long character lengths._
           - Data URI starts with: `data:image/` (and so forth).
           - SVG code starts with: `<svg` (and so forth).
           
