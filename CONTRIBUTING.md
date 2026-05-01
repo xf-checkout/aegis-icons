@@ -44,7 +44,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 - Forums, message groups and similar sites / communities using pre-existing hosted software.
   - Icons based on the software are preferred, as those are more universally usable for users than specific communities.
     - Detected with tools like [BuiltWith](https://builtwith.com/), [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
-  - _Exception:_ really popular forums can get their own icons (at least **over 250,000 total members** and high posting activity).
+  - _Exception:_ really popular forums can get their own icons (at least **over 50,000 members** and high posting activity).
 - Self-hosted or similar software.
   - A suggestion is to have ≥ 500 GitHub/GitLab stars or other non-maintainer activity to support the request.
   - If the previously mentioned metrics aren't available, then popularity is measured based on number of searches on [Google Trends](https://trends.google.com/trends/explore?date=all&hl=en) and/or results on Google.
@@ -147,13 +147,13 @@ _These softwares aren't allowed either because:_
 - Marketing
 - About
 - _Or anything that might be related_
-  
+
 **C.** If you didn't find anything, do a [Google](https://www.google.com) search just to double-check:
 
 ```
 site:offical-address-for-app-or-site-here.com brand OR logo OR media OR press
 ```
-    
+
 > **Examples:**
 > - GitHub has ["Brand Toolkit" page](https://brand.github.com/), it has downloadable logos and guidelines for using logos, color etc.
 > - Zenkit has ["Press Kit" page](https://zenkit.com/en/press-kit), that has ZIP file containing all the logos.
@@ -359,7 +359,7 @@ _Go these instructions in order:_
 - `fg.var` icons are made when **primary icon's BG colour is too bright and hard to see with white logo.**
   - **Examples:** [primary Snapchat icon](https://user-images.githubusercontent.com/3540275/83945146-6162d980-a811-11ea-8910-9e93ff65e804.png), [Snapchat `fg.var` icon](https://user-images.githubusercontent.com/3540275/151216951-ed34ea5e-d443-4e72-864e-56595e9a32c5.png). 
   - _Use black_ (`#000000`) _as foreground colour._ 
-  
+
 - `fg.bg.var` is combination of both variations, for edge cases **when** `bg.var` **BG colour is too bright and makes white logo hard to see.**
   - :warning: **Only make these if absolutely necessary!** Find better BG colour for `bg.var` if possible to avoid making these.
     - Check with ["BG colours to avoid" SVG](https://github.com/aegis-icons/aegis-icons/blob/master/_templates/z_bg-colors_to_avoid.svg) if `fg.bg.var` version is needed.
@@ -367,7 +367,7 @@ _Go these instructions in order:_
   - _Use black_ (`#000000`) _as foreground colour for_ `bg.var` _version._
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
-  
+
 ### Alternative icons
 
 "Alternative" – in this case – means icons for brands that provide alternative logos of their brands.
@@ -468,9 +468,10 @@ Fork this project and submit via pull request _(a.k.a. PR)_.
 - When icon is finished, fixed, tweaked or have any new changes, **create new commit** ([creating new commits in GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes)).
 <!-- 
 
-I DON'T THINK THAT @Goldmaster HAS IMPLEMENTED THIS FEATURE YET, SO I (@krisu) AM GONNA HIDE IT FOR NOW:
+    🚧 I DON'T THINK THAT @Goldmaster HAS IMPLEMENTED THIS FEATURE YET, SO I (@krisu) AM GONNA HIDE IT FOR NOW:
 
   - When writing a commit message for an icon addition or fix, please reference the corresponding issue number (e.g., `#123 New icon: whatever` or `#321 Fix icon: coolbrand`). This ensures the corresponding issue is automatically closed with a helpful comment and a direct link to the new or updated icon.
+
 -->
 - When ready to submit to aegis-icons, **[create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).**
   - [Quick link for aegis-icons's PR submission page](https://github.com/aegis-icons/aegis-icons/compare).
@@ -484,7 +485,7 @@ I DON'T THINK THAT @Goldmaster HAS IMPLEMENTED THIS FEATURE YET, SO I (@krisu) A
 Primary icons ➜
 - `/icons/1_Primary/` folder.
   - _Means all the logo based icons that aren't variations / alternatives._
-  
+
 Variation and alternative icons ➜
 - `/icons/2_Variations/` folder.
   - _[What's the variation icon?](#variation-icons)_
@@ -505,16 +506,16 @@ Generic icons ➜
 - **Primary icons:**
   - `[Company / product / app / site name].svg`
   - *Examples:* `Google.svg`, `Best Buy.svg`, `FACEIT.svg`, `itch.io.svg`
-  
+
 - **Icon variations with different background colour _OR_ black logo:**
   - `[Primary icon name] bg.var.svg` (if with different background)
   - `[Primary icon name] fg.var.svg` (if with black logo)
   - *Examples:* `Squarespace bg.var.svg`, `Snapchat fg.var.svg`
-  
+
 - **Generic icons:** 
   - *Name as what the icon symbolises that starts with capital letter.*
   - *Example:* `Cloud.svg`
-  
+
 <details>
 <summary>
   <samp><ins>
@@ -607,9 +608,9 @@ In a nutshell, image tracing means converting raster image (PNG, JPG etc.) to ve
 
 :balance_scale: **Things to check before image tracing:**
 1. Use high resolution image if possible.
-2. Preferably with image that doesn't have many colours (one color logo on solid one color or transparent background is most ideal).
+2. Preferably with image that doesn't have many colours (single color logo on single solid color background or transparent background is most ideal).
 3. Doesn't have any or minimal amount of [compression artifacts](https://simple.wikipedia.org/wiki/Compression_artifact), zoom into image and check.
-   - If image does have artifacts, try [Pix Fix](https://pixfix.com) tool to fix the image.
+   - If image does have artifacts, try [Pix Fix](https://pixfix.com) tool to fix those compression artifacts.
 
 > [!CAUTION]
 > - Only use image tracing tool if there's no other option, **always use ready-made vectors if available.**
@@ -619,16 +620,17 @@ In a nutshell, image tracing means converting raster image (PNG, JPG etc.) to ve
 _Free image tracers:_
 - [Vectorizer.io](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://www.vectorizer.io) :star: <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out the loophole -->
   - Not as good as Vector Magic or Vectorizer.AI (but nearly on par) and technically commercial (downloading cost money). **You can generate vectors for free and without an account though**.
+  - :warning: Uncheck _Enhance image with AI_ first, before uploading raster image.
   - _Loophole to download the SVG freely:_ use [SVG Gobbler](https://www.svggobbler.com) after vector is generated (for non-extension method, read ["Embedded logo(s) on the company website" section's](#2-embedded-logos-on-the-company-website) "Ways without extension" subsection).
 - [Vectorizer(.com)](https://vectorizer.com)
-  - Compared to others on this list and below, it's the least accurate tracer. But best part is that it's **completely free to use** and still better then most other tools out there.
+  - Compared to others on these lists, it's the least accurate tracer. But best part is that it's **completely free to use** and still better then most other tools out there.
 
 _Commercial image tracers:_
 - [Vector Magic](https://vectormagic.com) :star:
-  - The one of best – if not the best – image tracer, often used by the maintainer @krisu5. Trial only allows previews without export.
+  - The one of best – if not the best – image tracer, often used by the maintainer @krisu5. Commercial, trial only allows previews without export.
   - If you submitted icon PR and used other image tracers with not great success, then @krisu5 can – sometimes – image trace logo with this for you **if the request is legitimate.** Just submit the icon first and we'll discuss about it.
 - [Vectorizer.AI](https://vectorizer.ai) :star:
-  - From makers of Vector Magic. Equally or slightly better then Vector Magic.
+  - From makers of Vector Magic, equally or slightly better then Vector Magic. Commercial, only allows previews freely without export.
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
 
