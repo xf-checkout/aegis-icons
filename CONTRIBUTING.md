@@ -6,8 +6,8 @@
 # Contributing
 
 > [!WARNING]
-> - **2026-04-09: CONTRIBUTING documentation has currently ongoing overhaul!** Things might change in any time without notice.
-> - **2026-05-02: PR creation is disabled** until CONTRIBUTING overhaul and most of the stuff from [#987](https://github.com/aegis-icons/aegis-icons/issues/987) is completed, thank you for understanding.
+> - **`2026-04-09`: CONTRIBUTING documentation has currently ongoing overhaul!** Things might change in any time without notice.
+> - **`2026-05-02`: PR creation is disabled** until CONTRIBUTING overhaul and most of the stuff from [#987](https://github.com/aegis-icons/aegis-icons/issues/987) is completed, thank you for understanding.
 
 > [!CAUTION]
 > Contributing **requires basic knowledge of making / editing vectors with a vector graphics editor** (see the [software](#software) section) and knowing [what SVG even is](https://developer.mozilla.org/en-US/docs/Web/SVG). Instructions are provided for some steps, but not for everything.
