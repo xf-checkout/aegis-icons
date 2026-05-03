@@ -47,7 +47,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
     - Detected with tools like [BuiltWith](https://builtwith.com/), [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
   - _Exception:_ really popular forums can get their own icons (at least **over 50,000 members** and high posting activity).
 - Self-hosted or similar software.
-  - Suggestions must have ≥500 GitHub/GitLab stars (or equivalent equivalent non-maintainer activity) **and** must be at least 3 months old.
+  - Suggestions must have ≥500 GitHub/GitLab stars (or equivalent non-maintainer activity) **and** must be at least 3 months old.
   - If the previously mentioned metrics aren't available, then popularity is measured based on number of searches on [Google Trends](https://trends.google.com/trends/explore?date=all&hl=en) and/or results on Google.
 - Adult content, piracy & gambling related sites / apps / services.
   - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
