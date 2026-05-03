@@ -6,7 +6,8 @@
 # Contributing
 
 > [!WARNING]
-> **As of 2026-04-09, CONTRIBUTING documentation has currently ongoing overhaul!** Things might change in any time without notice.
+> - **2026-04-09: CONTRIBUTING documentation has currently ongoing overhaul!** Things might change in any time without notice.
+> - **2026-05-02: PR creation is disabled** until CONTRIBUTING overhaul and most of the stuff from [#987](https://github.com/aegis-icons/aegis-icons/issues/987) is completed, thank you for understanding.
 
 > [!CAUTION]
 > Contributing **requires basic knowledge of making / editing vectors with a vector graphics editor** (see the [software](#software) section) and knowing [what SVG even is](https://developer.mozilla.org/en-US/docs/Web/SVG). Instructions are provided for some steps, but not for everything.
@@ -447,7 +448,7 @@ _For those unfamiliar with command line usage:_
   - _See the [example SVG code after manual cleanup](https://github.com/aegis-icons/misc/commit/c0128f61f0d2b88d5953881699955a4a17477e47?diff=split) for aimed optimal result._
 
 > [!CAUTION]
-> **Test the SVG on the web browser** that the svg still works after edits! (drag-and-drop SVG to tab bar or _"Open File..." shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>O</kbd>).
+> **Test the SVG on the web browser** that the SVG still works after edits! (drag-and-drop SVG to tab bar or _"Open File..." shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>O</kbd>).
 
 When everything is done and ready to go, **submit the icons to the repository with pull request.**
 
