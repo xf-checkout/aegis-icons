@@ -41,13 +41,13 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
   - _Examples (not limited to):_ YouTube & Gmail (Google being parent brand for accounts), Threads (Instagram and Meta accounts are used for login), Behance (Adobe being parent brand for accounts).
 - Platforms that icon requester / submitter is the creator or owner of the platform itself.
   - Requests for free work or self-advertising are not accepted.
-  - _Exception:_ if platform is actually popular and has potential users for Aegis (see _self-hosted or similar software_ for measurement methods).
+  - _Exception:_ if platform is at least 3 months old, actually popular and has potential users for Aegis (see _self-hosted or similar software_ for measurement methods).
 - Forums, message groups and similar sites / communities using pre-existing hosted software.
   - Icons based on the software are preferred, as those are more universally usable for users than specific communities.
     - Detected with tools like [BuiltWith](https://builtwith.com/), [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
   - _Exception:_ really popular forums can get their own icons (at least **over 50,000 members** and high posting activity).
 - Self-hosted or similar software.
-  - A suggestion is to have ≥ 500 GitHub/GitLab stars or other non-maintainer activity to support the request.
+  - Suggestions must have ≥500 GitHub/GitLab stars (or equivalent equivalent non-maintainer activity) **and** must be at least 3 months old.
   - If the previously mentioned metrics aren't available, then popularity is measured based on number of searches on [Google Trends](https://trends.google.com/trends/explore?date=all&hl=en) and/or results on Google.
 - Adult content, piracy & gambling related sites / apps / services.
   - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
