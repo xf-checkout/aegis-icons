@@ -55,7 +55,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
   - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
   - These services are **always** researched from any "not approved" points before accepting.
 - App / site being too vague.
-  - Stating what the app or site does is not enough; there must be at least **some** evidence on the web. Otherwise, the app or site falls into the _shady apps / sites_ category.
+  - Stating what the app or site does is not enough; there must be at least **some** other evidence, that can be found by using Google or other web search engines. Otherwise, the app or site falls into the _shady apps / sites_ category.
   - _Examples (not limited to):_ sites only having login page and nothing else.
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
