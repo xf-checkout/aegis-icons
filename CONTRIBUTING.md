@@ -24,10 +24,10 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 
 :heavy_check_mark: _Almost_ always accepted to request or submit.
 
-- Apps / sites that are popular and has Aegis supported 2FA support **(specially wanted).**
-  - _Examples (not limited to):_ social media, productivity tools, cloud services, development tools, gaming related.
-- Almost any app / site / service, **that doesn't have the exceptions from below.**
-  - Still in spite of this, aegis-icons has right to reject requests or submissions if needed or necessary.
+1. Apps / sites that are popular and has Aegis supported 2FA support **(specially wanted).**
+   - _Examples (not limited to):_ social media, productivity tools, cloud services, development tools, gaming related.
+2. Almost any app / site / service, **that doesn't have the exceptions from below.**
+   - Still in spite of this, aegis-icons has right to reject requests or submissions if needed or necessary.
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
 
@@ -35,28 +35,73 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 
 :grey_question: Needs some examining before accepting or rejecting. Requests and submissions will be reviewed to determine acceptance.
 
-- Sub-brands (a service with identity created under a parent brand, with its own name).
-  - If sub-brand uses parent branding for accounts, then we suggest using parent brand's icon or we create icon for the parent brand.
-    - Detected from login page URL's domain, login page design, account documentation etc.
-  - _Examples (not limited to):_ YouTube & Gmail (Google being parent brand for accounts), Threads (Instagram and Meta accounts are used for login), Behance (Adobe being parent brand for accounts).
-- Platforms that icon requester / submitter is the creator or owner of the platform itself.
-  - Requests for free work or self-advertising are not accepted.
-  - _Exception:_ if platform is at least 3 months old, actually popular and has potential users for Aegis (see _self-hosted or similar software_ for measurement methods).
-- Forums, message groups and similar sites / communities using pre-existing hosted software.
-  - Icons based on the software are preferred, as those are more universally usable for users than specific communities.
-    - Detected with tools like [BuiltWith](https://builtwith.com/), [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
-  - _Exception:_ really popular forums can get their own icons (at least **over 50,000 members** and high posting activity).
-- Self-hosted or similar software.
-  - Suggestions must have ≥500 GitHub/GitLab stars (or equivalent non-maintainer activity) **and** must be at least 3 months old.
-  - If the previously mentioned metrics aren't available, then popularity is measured using [Google Trends](https://trends.google.com/trends/explore?date=all&hl=en).
-    - Interest must have begun at least 3 months ago before submission to aegis-icons.
-    - The interest value must have reached at least 25 points at some point and must not be equal/below 1 point for an extended period.
-- Adult content, piracy & gambling related sites / apps / services.
-  - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
-  - These services are **always** researched from any "not approved" points before accepting.
-- App / site being too vague.
-  - Stating what the app or site does is not enough; there must be at least **some** other evidence, that can be found by using Google or other web search engines. Otherwise, the app or site falls into the _shady apps / sites_ category.
-  - _Examples (not limited to):_ sites only having login page and nothing else.
+1. Sub-brands (a service with identity created under a parent brand, with its own name).
+   - If sub-brand uses parent branding for accounts, then we suggest using parent brand's icon or we create icon for the parent brand.
+     - Detected from login page URL's domain, login page design, account documentation etc.
+   - _Examples (not limited to):_ YouTube & Gmail (Google being parent brand for accounts), Threads (Instagram and Meta accounts are used for login), Behance (Adobe being parent brand for accounts).
+2. Platforms that icon requester / submitter is the creator or owner of the platform itself.
+   - Requests for free work or self-advertising are not accepted.
+     - _Exceptions:_ see the [popularity requirements](#popularity-requirements) section.
+3. Forums, message groups and similar sites / communities using pre-existing hosted software.
+   - Icons based on the software are preferred, as those are more universally usable for users than specific communities.
+     - Detected with tools like [BuiltWith](https://builtwith.com/), [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
+   - _Exceptions:_ see the [popularity requirements](#popularity-requirements) section.
+4. Self-hosted or similar (FOSS) software.
+   - See the [popularity requirements](#popularity-requirements) section for the criterias.
+5. Adult content, piracy & gambling related sites / apps / services.
+   - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
+   - These services are **always** researched from any "not approved" points before accepting.
+6. App / site being too vague.
+   - Stating what the app or site does is not enough; there must be at least **some** other evidence, that can be found by using Google or other web search engines. Otherwise, the app or site falls into the _shady apps / sites_ category.
+   - _Examples (not limited to):_ sites only having login page and nothing else.
+  
+<details id="popularity-requirements">
+<summary>
+  <samp><ins>
+    Popularity requirements for list items 2, 3, 4
+  </ins></samp>
+</summary>
+<br>
+
+<!-- Simple Icons has great implementation of popularity assesment guidelines and this section has taken some inspiration from it: https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md#assessing-popularity --> 
+
+> **Requirements for self-hosted or similar (FOSS) software**
+>
+> - At least 3 months old before submission to aegis-icons.
+> - Have 500 or more GitHub / GitLab stars.
+>   - If project lives outside of those sites, then we measure equivalent non-maintainer activity (see if there's commits, issues or PRs from contributors that aren't named as team members).
+>
+> If any of the data points aren't available, then go to "general measurement methods" section.
+>
+> ---
+>
+> **Requirements for forums, message groups and similar sites / communities**
+>
+> _Must meet these criterias to have own their icon:_
+>
+> - At least over 50,000 members.
+> - High posting activity (new topics / messages daily).
+>
+> If any of the data points aren't available, then go to "general measurement methods" section.
+>
+> ---
+>
+> **General measurement methods**
+>
+> _This section is for "case-by-case basis" section list item 2 and if needed, 3 & 4._
+>
+> First, do a popularity measurement with [Google Trends](https://trends.google.com/trends/explore?date=all&hl=en) and its "interest over time" graph:
+>
+> - Interest must have begun at least 3 months ago before submission to aegis-icons.
+> - The interest value must have reached at least 25 points at some point and must not be equal/below 1 point for an extended period.
+>
+> If no data was found from Google Trends, then finally do a traffic measurement with [Traffic.cv](https://traffic.cv/):
+>
+> - "Domain Creation" section's date should be at least 3 months ago before submission to aegis-icons.
+> - "Visits Over Time" section should have at least 500 visits at some point and not under it for an extended period.
+>
+> If no data was found or didn't meet criterias for traffic measurement, then issue or submission can be rejected.
+</details>
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
 
@@ -64,14 +109,14 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 
 :x: These are never accepted to aegis-icons, **no exceptions!**
 
-- Apps / sites **not** having Aegis supported 2FA support.
-  - Also when service has officially discontinued 3rd party 2FA support (only supporting legacy users) and no known workaround for new users.
-- Apps / sites **focusing** on **highly** immoral and/or illegal activity / material.
-  - _Examples (not limited to):_ black hat hacking, malware, malvertising, money laundering, scams, illegal or highly controversal sexual material / services, harassment / cyberbullying.
-- Shady apps / sites
-  - _Examples (not limited to):_ really private sites with no info on the web, sites with poor reputation.
-- :hammer_and_pick: **Only for icon submissions:** submitting unmodified SVGs / [raster images](https://simple.wikipedia.org/wiki/Raster_graphics).
-  - Icons must be designed manually for submissions.
+1. Apps / sites **not** having Aegis supported 2FA support.
+   - Also when service has officially discontinued 3rd party 2FA support (only supporting legacy users) and no known workaround for new users.
+2. Apps / sites **focusing** on **highly** immoral and/or illegal activity / material.
+   - _Examples (not limited to):_ black hat hacking, malware, malvertising, money laundering, scams, illegal or highly controversal sexual material / services, harassment / cyberbullying.
+3. Shady apps / sites
+   - _Examples (not limited to):_ really private sites with no info on the web, sites with poor reputation.
+4. **:hammer_and_pick: `Only for icon submissions:`** submitting unmodified SVGs / [raster images](https://simple.wikipedia.org/wiki/Raster_graphics).
+   - Icons must be designed manually for submissions.
 
 <!-- SECTION BREAK --> <br> <!-- SECTION BREAK --> 
 
@@ -178,6 +223,7 @@ If you **didn't find** anything after all these steps, _then go to the next step
     Ways without extension
   </ins></samp>
 </summary>
+<br>
 
 > **A.** Try right-clicking logo image and selecting <kbd><i>Save image as...</i></kbd>, and see if the save dialogue appears with SVG (not as JPG, PNG, GIF, WebP or [any other raster graphic format](https://en.wikipedia.org/wiki/Image_file_formats#Raster_formats)).
 >
@@ -185,7 +231,6 @@ If you **didn't find** anything after all these steps, _then go to the next step
 > - Sometimes SVG is embedded as inline. This means that instead of linking to an external file, the whole SVG file code is added to the HTML site code (see [SVG code example](https://gist.github.com/krisu5/677a8a3478331498929a11b900741aa2)). In that case, copy the SVG code completely from HTML (website embedded SVG starts with `<svg` & so forth and ends with `</svg>`), open a text editor and save copypasted text as `filename.svg`. To test if the file works, open the file into a web browser (drag-and-drop SVG to tab bar or _shortcut:_ <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>O</kbd>).
 >
 > **B.** Right-click the website and select <kbd><i>View page source</i></kbd>, then press <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>F</kbd> to open the search tool and type `SVG` to look for possible SVG vector files. Web inspector is also useful and better tool for some users / use cases (press <kbd>F12</kbd> on the website, go to "Inspector" / "Elements" tab, then press <kbd>Ctrl [⌘ Cmd]</kbd>+<kbd>F</kbd> to search).
-
 </details>
 
 If you didn't find anything good with these steps, _then go to the next step:_
@@ -251,6 +296,7 @@ When making icons, go to [templates](/_templates) directory and download / use `
     More in depth and not as necessary
   </ins></samp>
 </summary>
+<br>
 
 > - Guides don't necessarily mean that the logo's size should be exactly between _guide a_ to _guide b_; they represent more often a safe area for the logo or a suggestion for logo's size.
 >   - _Examples:_ [one](https://raw.githubusercontent.com/aegis-icons/misc/main/screenshots/contributing_003.png), [two](https://raw.githubusercontent.com/aegis-icons/misc/main/screenshots/contributing_004.png), [three](https://raw.githubusercontent.com/aegis-icons/misc/main/screenshots/contributing_005.png), [four](https://raw.githubusercontent.com/aegis-icons/misc/main/screenshots/contributing_006.png).
@@ -281,6 +327,7 @@ _Documentation coming soon... (krisu5 will add basic documentation for a start).
     How to do it on <b>Adobe Illustrator</b>
   </ins></samp>
 </summary>
+<br>
 
 > 1. Open **Layers** window, if it's not already open (_shortcut:_ <kbd>F7</kbd> or _menu:_ <kbd><i>Window</i></kbd> ➜ <kbd><i>Layers</i></kbd>)
 > 2. Ungroup all the layer groups related to the logo completely.
@@ -296,6 +343,7 @@ _Documentation coming soon... (krisu5 will add basic documentation for a start).
     How to do it on <b>Affinity by Canva / Affinity Designer</b>
   </ins></samp>
 </summary>
+<br>
 
 > 1. Open **Layers** window, if it's not already open (_menu:_ <kbd><i>View</i></kbd> ➜ <kbd><i>Studio</i></kbd> ➜ <kbd><i>Layers</i></kbd>).
 > 2. In canvas, use "Move" tool (<kbd>V</kbd>) and select logo layers by click & drag across the logo (avoid selecting circle).
@@ -316,6 +364,7 @@ _Documentation coming soon... (krisu5 will add basic documentation for a start).
     How to do it on <b>Inkscape</b>
   </ins></samp>
 </summary>
+<br>
 
 > 1. Open **Objects** window (_menu:_ <kbd><i>Object</i></kbd> ➜ <kbd><i>Objects</i></kbd>).
 > 2. Select all the objects related to logo (<kbd>Shift</kbd>+<kbd>Click</kbd> in the **Objects** window).
@@ -525,6 +574,7 @@ Generic icons ➜
     Uncommon types of icons
   </ins></samp>
 </summary>
+<br>
 
 > - **Icon variations with black foreground _PLUS_ different background colour:**
 >   - `[Primary icon name] fg.bg.var.svg`
