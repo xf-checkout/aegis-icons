@@ -49,7 +49,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 - Self-hosted or similar software.
   - Suggestions must have ≥500 GitHub/GitLab stars (or equivalent non-maintainer activity) **and** must be at least 3 months old.
   - If the previously mentioned metrics aren't available, then popularity is measured using [Google Trends](https://trends.google.com/trends/explore?date=all&hl=en).
-    - Interest must have begun at least 3 months ago from submission date.
+    - Interest must have begun at least 3 months ago before submission to aegis-icons.
     - The interest value must have reached at least 25 points at some point and must not be equal/below 1 point for an extended period.
 - Adult content, piracy & gambling related sites / apps / services.
   - Mostly acceptable, **but** submissions must not break **any** of the "not approved" bullet points.
