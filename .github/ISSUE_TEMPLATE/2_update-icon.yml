@@ -9,7 +9,9 @@ body:
         > [!IMPORTANT]
         > ### :loudspeaker: [Read our issue guidelines first](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already! _Always recheck them for any guideline updates._
         > 
-        > - :warning: **If you don't read / follow the issue guidelines**, your issue(s) might **get rejected** and, _in the worse case_, **get you banned indefinitely.**
+        > ### :scroll: Please fill out this issue form following the instructions.
+        >
+        > - :warning: **If you don't read / follow the issue guidelines and fill out this issue form as instructed**, your issue(s) might **get rejected** and, _in the worse case_, **get you banned indefinitely.**
         > - :x: Do not request multiple icons in single issue, make multiple issues instead.
         >
         > ### :triangular_flag_on_post: Issue title formatting _(text field at the top)_
@@ -105,7 +107,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        :point_up: **Required** if you selected `Brand changed their name` or `Other` as reason for update. Explain in detail, so we understand the situation.
+        :point_up: **Required** if you selected `Brand changed their name` or `Other` as reason for update. Explain in detail, so we understand the situation (for example: what was the change, when this change approximately happen).
         
         <!-- SECTION BREAK --> <br> <!-- SECTION BREAK -->
 

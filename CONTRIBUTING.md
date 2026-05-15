@@ -1,13 +1,13 @@
 <!--
   For how to properly write formatted text in our documentations, please check our style guide:
-  https://github.com/aegis-icons/misc/blob/main/style_guide.md 
+  https://github.com/aegis-icons/misc/blob/main/style_guide.md
 -->
 
 # Contributing
 
-> [!WARNING]
-> - **`2026-04-09`: CONTRIBUTING documentation has currently ongoing overhaul!** Things might change in any time without notice.
-> - **`2026-05-02`: PR creation is disabled** until CONTRIBUTING overhaul and most of the stuff from [#987](https://github.com/aegis-icons/aegis-icons/issues/987) is completed, thank you for understanding.
+> [!IMPORTANT]
+> - **`2026-04-09` CONTRIBUTING documentation has currently ongoing overhaul!** Things might change in any time without notice.
+> - **`2026-05-02` PR creation is disabled** until CONTRIBUTING overhaul and most of the stuff from [#987](https://github.com/aegis-icons/aegis-icons/issues/987) is completed, thank you for understanding.
 
 > [!CAUTION]
 > Contributing **requires basic knowledge of making / editing vectors with a vector graphics editor** (see the [software](#software) section) and knowing [what SVG even is](https://developer.mozilla.org/en-US/docs/Web/SVG). Instructions are provided for some steps, but not for everything.
@@ -77,7 +77,7 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 >
 > **Requirements for forums, message groups and similar sites / communities**
 >
-> _Must meet these criterias to have own their icon:_
+> _Must meet these criterias to have their own icon:_
 >
 > - At least over 50,000 members.
 > - High posting activity (new topics / messages daily).
@@ -97,8 +97,8 @@ Before making or requesting an icon for an app / site, refer to the "acceptabili
 >
 > If no data was found from Google Trends, then finally do a traffic measurement with [Traffic.cv](https://traffic.cv/):
 >
-> - "Domain Creation" section's date should be at least 3 months ago before submission to aegis-icons.
-> - "Visits Over Time" section should have at least 500 visits at some point and not under it for an extended period.
+> - "Domain creation" section's date should be at least 3 months ago before submission to aegis-icons.
+> - "Visits over time" section should have at least 500 visits at some point and not under it for an extended period.
 >
 > If no data was found or didn't meet criterias for traffic measurement, then issue or submission can be rejected.
 </details>
