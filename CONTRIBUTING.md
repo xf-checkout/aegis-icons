@@ -670,15 +670,21 @@ In a nutshell, image tracing means converting raster image (PNG, JPG etc.) to ve
 > - Using tool **outside of these recommendations below** can do mediocre job and **is not acceptable.**
 >   - Maintainer @krisu5 has tested many image tracing tools and these are good ones so far _(and yes, even Adobe Illustrator has mediocre image tracer)_.
 
-_Free image tracers:_
-- [Vectorizer.io](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://www.vectorizer.io) :star: <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out the loophole -->
-  - Not as good as Vector Magic or Vectorizer.AI (but nearly on par) and technically commercial (downloading cost money). **You can generate vectors for free and without an account though**.
-  - :warning: Uncheck _Enhance image with AI_ first, before uploading raster image.
-  - _Loophole to download the SVG freely:_ use [SVG Gobbler](https://www.svggobbler.com) after vector is generated (for non-extension method, read ["Embedded logo(s) on the company website" section's](#2-embedded-logos-on-the-company-website) "Ways without extension" subsection).
+_Free to use image tracers:_
+- [Kittl's AI Image Vectorizer](https://www.kittl.com/tools/vectorizer) :star:
+  - Nearly identical results compared to Vector Magic, allows 3 free trial attempts, no download restrictions.
+  - _You can get more attempts by clearing the cookies / site data and refreshing the page._
+- [Vectorizer.io](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://www.vectorizer.io) :star: <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out about the SVG Gobbler method -->
+  - Not as good as Vector Magic or Vectorizer.AI (but nearly on par) and technically commercial (downloading cost money). You can generate vectors for free and without an account though.
+  - :warning: **Uncheck "Enhance image with AI" first,** before uploading raster image.
+  - _Free download method:_ use [SVG Gobbler](https://www.svggobbler.com) after vector is generated (for non-extension method, read ["Embedded logo(s) on the company website" section's](#2-embedded-logos-on-the-company-website) "Ways without extension" subsection).
+- [SVG.new](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://svg.new/) <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out about the SVG Gobbler method -->
+  - Decent, but makes thicker looking vectors compared to Vector Magic and likes. Allows limited downloads for free with account, but generation doesn't require account.
+  - _Accountless download method:_ use [SVG Gobbler](https://www.svggobbler.com) after vector is generated (for non-extension method, read ["Embedded logo(s) on the company website" section's](#2-embedded-logos-on-the-company-website) "Ways without extension" subsection).
 - [Vectorizer(.com)](https://vectorizer.com)
   - Compared to others on these lists, it's the least accurate tracer. But best part is that it's **completely free to use** and still better then most other tools out there.
 
-_Commercial image tracers:_
+_Commercial only image tracers:_
 - [Vector Magic](https://vectormagic.com) :star:
   - The one of best – if not the best – image tracer, often used by the maintainer @krisu5. Commercial, trial only allows previews without export.
   - If you submitted icon PR and used other image tracers with not great success, then @krisu5 can – sometimes – image trace logo with this for you **if the request is legitimate.** Just submit the icon first and we'll discuss about it.
