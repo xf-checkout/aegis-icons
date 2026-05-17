@@ -674,13 +674,13 @@ _Free to use image tracers:_
 - [Kittl's AI Image Vectorizer](https://www.kittl.com/tools/vectorizer) :star:
   - Nearly identical results compared to Vector Magic, allows 3 free trial attempts, no download restrictions.
   - _You can get more attempts by clearing the cookies / site data and refreshing the page._
+- [SVG.new](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://svg.new/) <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out about the SVG Gobbler method -->
+  - Decent, but makes thicker looking vectors compared to Vector Magic and likes. Allows limited downloads for free with account, but generation doesn't require account.
+  - _Accountless download method:_ use [SVG Gobbler](https://www.svggobbler.com) after vector is generated (for non-extension method, read ["Embedded logo(s) on the company website" section's](#2-embedded-logos-on-the-company-website) "Ways without extension" subsection).
 - [Vectorizer.io](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://www.vectorizer.io) :star: <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out about the SVG Gobbler method -->
   - Not as good as Vector Magic or Vectorizer.AI (but nearly on par) and technically commercial (downloading cost money). You can generate vectors for free and without an account though.
   - :warning: **Uncheck "Enhance image with AI" first,** before uploading raster image.
   - _Free download method:_ use [SVG Gobbler](https://www.svggobbler.com) after vector is generated (for non-extension method, read ["Embedded logo(s) on the company website" section's](#2-embedded-logos-on-the-company-website) "Ways without extension" subsection).
-- [SVG.new](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://svg.new/) <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out about the SVG Gobbler method -->
-  - Decent, but makes thicker looking vectors compared to Vector Magic and likes. Allows limited downloads for free with account, but generation doesn't require account.
-  - _Accountless download method:_ use [SVG Gobbler](https://www.svggobbler.com) after vector is generated (for non-extension method, read ["Embedded logo(s) on the company website" section's](#2-embedded-logos-on-the-company-website) "Ways without extension" subsection).
 - [Vectorizer(.com)](https://vectorizer.com)
   - Compared to others on these lists, it's the least accurate tracer. But best part is that it's **completely free to use** and still better then most other tools out there.
 
