@@ -672,7 +672,7 @@ In a nutshell, image tracing means converting raster image (PNG, JPG etc.) to ve
 
 _Free to use image tracers:_
 - [Kittl's AI Image Vectorizer](https://www.kittl.com/tools/vectorizer) :star:
-  - Nearly identical results compared to Vector Magic, allows 3 free trial attempts, no download restrictions.
+  - Nearly identical results compared to Vector Magic, allows free trial attempts, no download restrictions.
   - _You can get more attempts by clearing the cookies / site data and refreshing the page._
 - [SVG.new](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://svg.new/) <!-- The redirect to https://adguardteam.github.io/AnonymousRedirect/ (anonymous redirect / referrer) is added on purpose, preventing devs finding out about the SVG Gobbler method -->
   - Decent, but makes thicker looking vectors compared to Vector Magic and likes. Allows limited downloads for free with account, but generation doesn't require account.
