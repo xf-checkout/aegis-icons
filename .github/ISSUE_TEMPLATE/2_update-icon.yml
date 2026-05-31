@@ -119,7 +119,7 @@ body:
     attributes:
       label: Confirmations
       description: |
-        **IMPORTANT:** Answer truthfully.
+        **IMPORTANT:** Please read each item carefully before confirming and answer truthfully.
       options:
         - label: I have read and followed the [issue guidelines](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & issue form.
           required: true
@@ -133,5 +133,5 @@ body:
           required: true
         - label: _If I selected **Brand changed their name** or **Other** as reason for update,_ then I also [wrote explanation](#explanation).
           required: true
-        - label: I did not read anything what this issue form said.
+        - label: I acknowledge that I rushed and **did not** follow the instructions or answer the above checkboxes truthfully.
           required: false
