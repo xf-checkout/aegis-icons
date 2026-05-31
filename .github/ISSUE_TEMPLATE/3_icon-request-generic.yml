@@ -45,11 +45,11 @@ body:
       description: |
         **IMPORTANT:** Please read each item carefully before confirming and answer truthfully.
       options:
-        - label: I have read and followed the [issue guidelines](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & issue form.
+        - label: I have read and followed the [issue guidelines](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & this issue form's instructions.
           required: true
         - label: I added the symbol name to the issue title _(text field at the top)_.
           required: true
         - label: I keep the formatting of the issue title intact _(text field at the top)_.
           required: true
-        - label: I acknowledge that I rushed and **did not** follow the instructions or answer the above checkboxes truthfully.
+        - label: By checking this box, I acknowledge that **I did _not_** follow the given instructions.
           required: false
