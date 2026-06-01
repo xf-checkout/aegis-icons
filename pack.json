@@ -100,6 +100,14 @@
             ]
         },
         {
+            "name": "Accurate",
+            "filename": "icons/1_Primary/Accurate.svg",
+            "category": null,
+            "issuer": [
+                "Accurate"
+            ]
+        },
+        {
             "name": "Active24",
             "filename": "icons/1_Primary/Active24.svg",
             "category": null,
@@ -1260,6 +1268,14 @@
             ]
         },
         {
+            "name": "DOKU",
+            "filename": "icons/1_Primary/DOKU.svg",
+            "category": null,
+            "issuer": [
+                "DOKU"
+            ]
+        },
+        {
             "name": "Dashlane",
             "filename": "icons/1_Primary/Dashlane.svg",
             "category": null,
@@ -1337,6 +1353,14 @@
             "category": null,
             "issuer": [
                 "Deutsche Bahn"
+            ]
+        },
+        {
+            "name": "Dewaweb",
+            "filename": "icons/1_Primary/Dewaweb.svg",
+            "category": null,
+            "issuer": [
+                "Dewaweb"
             ]
         },
         {
@@ -1476,6 +1500,14 @@
             ]
         },
         {
+            "name": "Duitku",
+            "filename": "icons/1_Primary/Duitku.svg",
+            "category": null,
+            "issuer": [
+                "Duitku"
+            ]
+        },
+        {
             "name": "Dynadot",
             "filename": "icons/1_Primary/Dynadot.svg",
             "category": null,
@@ -1585,6 +1617,14 @@
             "category": null,
             "issuer": [
                 "Evernote"
+            ]
+        },
+        {
+            "name": "Exabytes",
+            "filename": "icons/1_Primary/Exabytes.svg",
+            "category": null,
+            "issuer": [
+                "Exabytes"
             ]
         },
         {
@@ -3540,6 +3580,14 @@
             ]
         },
         {
+            "name": "Nanovest",
+            "filename": "icons/1_Primary/Nanovest.svg",
+            "category": null,
+            "issuer": [
+                "Nanovest"
+            ]
+        },
+        {
             "name": "Nash",
             "filename": "icons/1_Primary/Nash.svg",
             "category": null,
@@ -4604,6 +4652,14 @@
             ]
         },
         {
+            "name": "Reku",
+            "filename": "icons/1_Primary/Reku.svg",
+            "category": null,
+            "issuer": [
+                "Reku"
+            ]
+        },
+        {
             "name": "Remote Utilities",
             "filename": "icons/1_Primary/Remote Utilities.svg",
             "category": null,
@@ -4761,6 +4817,14 @@
             "category": null,
             "issuer": [
                 "SAPO"
+            ]
+        },
+        {
+            "name": "SIASN",
+            "filename": "icons/1_Primary/SIASN.svg",
+            "category": null,
+            "issuer": [
+                "SIASN"
             ]
         },
         {
@@ -5193,6 +5257,14 @@
             "category": null,
             "issuer": [
                 "Steam"
+            ]
+        },
+        {
+            "name": "Stockbit Crypto",
+            "filename": "icons/1_Primary/Stockbit Crypto.svg",
+            "category": null,
+            "issuer": [
+                "Stockbit Crypto"
             ]
         },
         {
@@ -6476,6 +6548,14 @@
             ]
         },
         {
+            "name": "e-IPO",
+            "filename": "icons/1_Primary/e-IPO.svg",
+            "category": null,
+            "issuer": [
+                "e-IPO"
+            ]
+        },
+        {
             "name": "eBay",
             "filename": "icons/1_Primary/eBay.svg",
             "category": null,
@@ -7449,6 +7529,14 @@
             "category": null,
             "issuer": [
                 "Steam bg.var"
+            ]
+        },
+        {
+            "name": "Stockbit Crypto bg.var",
+            "filename": "icons/2_Variations/Stockbit Crypto bg.var.svg",
+            "category": null,
+            "issuer": [
+                "Stockbit Crypto bg.var"
             ]
         },
         {
